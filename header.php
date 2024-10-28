@@ -4,7 +4,7 @@
         <div class="auto-container full-width pl_xxl_220">
             <div class="inner-container d-flex align-items-center justify-content-between">
                 <div class="logo-box">
-                    <div class="logo"><a href="index.html"><img src="assets/images/logo-light.png" alt=""></a></div>
+                    <div class="logo"><a href="index.php"><img src="assets/images/logo-light.png" alt=""></a></div>
                 </div>
                 <div class="right-column d-flex align-items-center">
                     <div class="nav-outer">

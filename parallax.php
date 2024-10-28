@@ -9,11 +9,10 @@
         margin: 0%;
         padding: 0%;
       }
-      .header,
       .part {
         transition: all 500ms;
-        padding: 10px;
         position: sticky;
+        padding: 10px;
         width: 100%;
         height: 100vh;
         top: 0;
@@ -23,18 +22,18 @@
       }
 
       .part:nth-of-type(1) {
-        background-image: url("./assets/images/background/bg-2.jpg");
+        background-image: url("./assets/images/background/bg-1.jpg");
       }
       .part:nth-of-type(2) {
-        background-image: url("./assets/images/background/bg-3.jpg");
+        background-image: url("./assets/images/background/bg-2.jpg");
         background-repeat: no-repeat;
       }
       .part:nth-of-type(3) {
-        background-image: url("./assets/images/background/bg-4.jpg");
+        background-image: url("./assets/images/background/bg-3.jpg");
         background-repeat: no-repeat;
       }
       .part:nth-of-type(4) {
-        background-image: url("./assets/images/background/bg-1.jpg");
+        background-image: url("./assets/images/background/bg-4.jpg");
         background-repeat: no-repeat;
       }
     </style>
