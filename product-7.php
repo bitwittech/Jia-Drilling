@@ -175,7 +175,7 @@
             <div class="auto-container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="mb_30"><img src="assets/images/resource/service-2.jpg" alt=""></div>
+                        <div class="mb_30"><img src="assets/newImages/Exploration Drilling Rig/JCT-200.png" alt=""></div>
                     </div>
                     <div class="col-lg-6 ps-lg-5">
                         <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span

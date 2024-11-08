@@ -64,8 +64,8 @@
 </head>
 
 <body>
+    <?php include "parallax.php" ?>
     <div class="page-wrapper">
-
         <div class="loader-wrap">
             <div class="preloader">
                 <div class="preloader-close">Preloader Close</div>
@@ -389,15 +389,15 @@
                         <div class="swiper-slide">
                             <div class="project-1-block">
                                 <div class="project-1-image">
-                                    <img src="assets/images/gallery/gallery-5.jpg" alt="">
+                                    <img src="assets/newImages/ourProducts/DR-300.png" alt="">
                                     <div class="project-1-overlay">
-                                        <a href="assets/images/gallery/gallery-5.jpg" class="project-1-icon"
+                                        <a href="assets/newImages/ourProducts/DR-300.png" class="project-1-icon"
                                             data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
-                                        <a href="project-details.html"><i class="flaticon-link"></i></a>
+                                        <a href="product-8.php"><i class="flaticon-link"></i></a>
                                     </div>
                                     <div class="project-1-content">
-                                        <p class="project-1-cat">Lorence Project</p>
-                                        <h4 class="project-1-title">Building Construction</h4>
+                                        <p class="project-1-cat">JDMR-300</p>
+                                        <h4 class="project-1-title">Direct Rotary Drilling Rig</h4>
                                     </div>
                                 </div>
                             </div>
@@ -406,15 +406,15 @@
                         <div class="swiper-slide">
                             <div class="project-1-block">
                                 <div class="project-1-image">
-                                    <img src="assets/images/gallery/gallery-6.jpg" alt="">
+                                    <img src="assets/newImages/ourProducts/JAT-12.jpg" alt="">
                                     <div class="project-1-overlay">
-                                        <a href="assets/images/gallery/gallery-6.jpg" class="project-1-icon"
+                                        <a href="assets/newImages/ourProducts/JAT-12.jpg" class="project-1-icon"
                                             data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
-                                        <a href="project-details.html"><i class="flaticon-link"></i></a>
+                                        <a href="product-5.php"><i class="flaticon-link"></i></a>
                                     </div>
                                     <div class="project-1-content">
-                                        <p class="project-1-cat">Lorence Project</p>
-                                        <h4 class="project-1-title">Building Construction</h4>
+                                        <p class="project-1-cat">JAT-12</p>
+                                        <h4 class="project-1-title">Construction Pipeline Drilling</h4>
                                     </div>
                                 </div>
                             </div>
@@ -423,15 +423,15 @@
                         <div class="swiper-slide">
                             <div class="project-1-block">
                                 <div class="project-1-image">
-                                    <img src="assets/images/gallery/gallery-7.jpg" alt="">
+                                    <img src="assets/newImages/ourProducts/JBT-10.png" alt="">
                                     <div class="project-1-overlay">
-                                        <a href="assets/images/gallery/gallery-7.jpg" class="project-1-icon"
+                                        <a href="assets/newImages/ourProducts/JBT-10.png" class="project-1-icon"
                                             data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
-                                        <a href="project-details.html"><i class="flaticon-link"></i></a>
+                                        <a href="product-3.php"><i class="flaticon-link"></i></a>
                                     </div>
                                     <div class="project-1-content">
-                                        <p class="project-1-cat">Lorence Project</p>
-                                        <h4 class="project-1-title">Building Construction</h4>
+                                        <p class="project-1-cat">JBT-10</p>
+                                        <h4 class="project-1-title">Blast Hole Drilling Rig</h4>
                                     </div>
                                 </div>
                             </div>
@@ -440,15 +440,49 @@
                         <div class="swiper-slide">
                             <div class="project-1-block">
                                 <div class="project-1-image">
-                                    <img src="assets/images/gallery/gallery-8.jpg" alt="">
+                                    <img src="assets/newImages/ourProducts/JWC-10.jpg" alt="">
                                     <div class="project-1-overlay">
-                                        <a href="assets/images/gallery/gallery-8.jpg" class="project-1-icon"
+                                        <a href="assets/newImages/ourProducts/JWC-10.jpg" class="project-1-icon"
                                             data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
-                                        <a href="project-details.html"><i class="flaticon-link"></i></a>
+                                        <a href="product-15.php"><i class="flaticon-link"></i></a>
                                     </div>
                                     <div class="project-1-content">
-                                        <p class="project-1-cat">Lorence Project</p>
-                                        <h4 class="project-1-title">Building Construction</h4>
+                                        <p class="project-1-cat">JWC-10</p>
+                                        <h4 class="project-1-title">DTHR</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Slide Item -->
+                        <div class="swiper-slide">
+                            <div class="project-1-block">
+                                <div class="project-1-image">
+                                    <img src="assets/newImages/ourProducts/JWC-25.jpg" alt="">
+                                    <div class="project-1-overlay">
+                                        <a href="assets/newImages/ourProducts/JWC-25.jpg" class="project-1-icon"
+                                            data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
+                                        <a href="product-19.php"><i class="flaticon-link"></i></a>
+                                    </div>
+                                    <div class="project-1-content">
+                                        <p class="project-1-cat">JWC-25</p>
+                                        <h4 class="project-1-title">RC Drilling</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Slide Item -->
+                        <div class="swiper-slide">
+                            <div class="project-1-block">
+                                <div class="project-1-image">
+                                    <img src="assets/newImages/ourProducts/JCC-300-2.png" alt="">
+                                    <div class="project-1-overlay">
+                                        <a href="assets/newImages/ourProducts/JCC-300-2.png" class="project-1-icon"
+                                            data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
+                                        <a href="product-21.php"><i class="flaticon-link"></i></a>
+                                    </div>
+                                    <div class="project-1-content">
+                                        <p class="project-1-cat">JCC-300</p>
+                                        <h4 class="project-1-title">Exploration Drilling Rig</h4>
                                     </div>
                                 </div>
                             </div>
