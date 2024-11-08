@@ -64,7 +64,7 @@
 </head>
 
 <body>
-    <?php include "parallax.php" ?>
+ 
     <div class="page-wrapper">
         <div class="loader-wrap">
             <div class="preloader">
@@ -76,7 +76,6 @@
         </div>
 
         <?php include 'header.php' ?>
-
 
         <div class="hidden-sidebar close-sidebar">
             <div class="wrapper-box">
@@ -178,6 +177,7 @@
 
 
 
+
         <section class="banner-1-section banner-section bg_dark5 overflow-hidden">
             <h1 class="banner-1-side-text text_stroke">Construction</h1>
 
@@ -253,7 +253,8 @@
                     <div class="col-lg-8">
                         <div class="p_relative ml_xxl_70">
                             <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
-                                    class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Welcome to Jia Drilling.</h6>
+                                    class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Welcome to Jia Drilling.
+                            </h6>
                             <h2 class="fs_45 fw_black mb_30 c_light">We Are Best Company In <br> Constrcution</h2>
                             <p class="mb_30 fs_16 c_light">Since 2005, a strong, customer-focused approach and
                                 relentless pursuit of world-class quality have helped it achieve and maintain leadership
@@ -371,6 +372,11 @@
                 </div>
             </div>
         </section>
+
+        <div>
+        <?php include "parallax.php" ?>
+    </div>
+
 
         <!-- project -->
         <section class="pt_120 pb_120 bg_dark">
@@ -502,75 +508,92 @@
             <h1 class="project-1-bottom-title text_stroke mt_100" data-parallax='{"x": -50}'>Jia Drilling</h1>
         </div>
 
-      <!-- testimonial -->
-      <section class="pt_120 pb_90 bg_dark6 mb-5">
-        <div class="p_absolute t_0 r_0 b_0 l_0" style="background-image: url(assets/images/resource/map.png);"></div>
-		<div class="auto-container">
-			<div class="row">
-				<div class="col-lg-4">
-					<h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Testimonials</h6>
-                    <h2 class="c_light fs_45 fw_black mb_40">What They’re <br> Talking About <br> Comapany ?</h2>
-				</div>
-				<div class="col-lg-8">
-                    <div class="swiper-container two-item-carousel">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="testimonials-1-block">
-                                    <div class="testimonials-1-top-content">
-                                        <div class="testimonials-1-quote"><i class="flaticon-quotation"></i></div>
-                                        <div class="testimonials-1-desc">Normal that has evolved from gene ration X is on the runway heading towards a streamlined cloud solution. strategies to ensure proactive domination. </div>
-                                    </div>
-                                    <div class="testimonials-1-author">
-                                        <div class="testimonials-1-author-image"><img src="assets/images/resource/author-3.jpg" alt=""></div>
-                                        <div class="testimonials-1-author-title">Robert Mick</div>
-                                        <div class="testimonials-1-designation">Customer</div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide">
-                                <div class="testimonials-1-block">
-                                    <div class="testimonials-1-top-content">
-                                        <div class="testimonials-1-quote"><i class="flaticon-quotation"></i></div>
-                                        <div class="testimonials-1-desc">Normal that has evolved from gene ration X is on the runway heading towards a streamlined cloud solution. strategies to ensure proactive domination.  </div>
-                                    </div>
-                                    <div class="testimonials-1-author">
-                                        <div class="testimonials-1-author-image"><img src="assets/images/resource/author-4.jpg" alt=""></div>
-                                        <div class="testimonials-1-author-title">Marray Joe</div>
-                                        <div class="testimonials-1-designation">Customer</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>                            
+        <!-- testimonial -->
+        <section class="pt_120 pb_90 bg_dark6 mb-5">
+            <div class="p_absolute t_0 r_0 b_0 l_0" style="background-image: url(assets/images/resource/map.png);">
+            </div>
+            <div class="auto-container">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
+                                class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Testimonials</h6>
+                        <h2 class="c_light fs_45 fw_black mb_40">What They’re <br> Talking About <br> Comapany ?</h2>
                     </div>
-				</div>
-			</div>
-		</div>
-        <div class=" bg_dark6">
-        <div class="brand-logo-sec-border alt"></div>
-        <div class="text-center"><h5 class="ff_sec fw_bold tt_u fs_14 ls_1 c_primary text-center mb_80 bg_dark6 pl_30 pr_30 p_relative d_iblock">We worked with royal clients</h5></div>
-        <div class="auto-container">
-            <div class="row align-items-center">
-                <div class="col-xl-2-5 col-lg-3 col-md-4">
-                    <div class="client-logo-1-image alt mb_20"><img src="assets/images/clients-logo/brand-logo-1.png" alt=""></div>
-                </div>
-                <div class="col-xl-2-5 col-lg-3 col-md-4">
-                    <div class="client-logo-1-image alt mb_20"><img src="assets/images/clients-logo/brand-logo-2.png" alt=""></div>
-                </div>
-                <div class="col-xl-2-5 col-lg-3 col-md-4">
-                    <div class="client-logo-1-image alt mb_20"><img src="assets/images/clients-logo/brand-logo-3.png" alt=""></div>
-                </div>
-                <div class="col-xl-2-5 col-lg-3 col-md-4">
-                    <div class="client-logo-1-image alt mb_20"><img src="assets/images/clients-logo/brand-logo-4.png" alt=""></div>
-                </div>
-                <div class="col-xl-2-5 col-lg-3 col-md-4">
-                    <div class="client-logo-1-image alt mb_20"><img src="assets/images/clients-logo/brand-logo-5.png" alt=""></div>
+                    <div class="col-lg-8">
+                        <div class="swiper-container two-item-carousel">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="testimonials-1-block">
+                                        <div class="testimonials-1-top-content">
+                                            <div class="testimonials-1-quote"><i class="flaticon-quotation"></i></div>
+                                            <div class="testimonials-1-desc">Normal that has evolved from gene ration X
+                                                is on the runway heading towards a streamlined cloud solution.
+                                                strategies to ensure proactive domination. </div>
+                                        </div>
+                                        <div class="testimonials-1-author">
+                                            <div class="testimonials-1-author-image"><img
+                                                    src="assets/images/resource/author-3.jpg" alt=""></div>
+                                            <div class="testimonials-1-author-title">Robert Mick</div>
+                                            <div class="testimonials-1-designation">Customer</div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="testimonials-1-block">
+                                        <div class="testimonials-1-top-content">
+                                            <div class="testimonials-1-quote"><i class="flaticon-quotation"></i></div>
+                                            <div class="testimonials-1-desc">Normal that has evolved from gene ration X
+                                                is on the runway heading towards a streamlined cloud solution.
+                                                strategies to ensure proactive domination. </div>
+                                        </div>
+                                        <div class="testimonials-1-author">
+                                            <div class="testimonials-1-author-image"><img
+                                                    src="assets/images/resource/author-4.jpg" alt=""></div>
+                                            <div class="testimonials-1-author-title">Marray Joe</div>
+                                            <div class="testimonials-1-designation">Customer</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
-	</section>
-    
+            <div class=" bg_dark6">
+                <div class="brand-logo-sec-border alt"></div>
+                <div class="text-center">
+                    <h5
+                        class="ff_sec fw_bold tt_u fs_14 ls_1 c_primary text-center mb_80 bg_dark6 pl_30 pr_30 p_relative d_iblock">
+                        We worked with royal clients</h5>
+                </div>
+                <div class="auto-container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-2-5 col-lg-3 col-md-4">
+                            <div class="client-logo-1-image alt mb_20"><img
+                                    src="assets/images/clients-logo/brand-logo-1.png" alt=""></div>
+                        </div>
+                        <div class="col-xl-2-5 col-lg-3 col-md-4">
+                            <div class="client-logo-1-image alt mb_20"><img
+                                    src="assets/images/clients-logo/brand-logo-2.png" alt=""></div>
+                        </div>
+                        <div class="col-xl-2-5 col-lg-3 col-md-4">
+                            <div class="client-logo-1-image alt mb_20"><img
+                                    src="assets/images/clients-logo/brand-logo-3.png" alt=""></div>
+                        </div>
+                        <div class="col-xl-2-5 col-lg-3 col-md-4">
+                            <div class="client-logo-1-image alt mb_20"><img
+                                    src="assets/images/clients-logo/brand-logo-4.png" alt=""></div>
+                        </div>
+                        <div class="col-xl-2-5 col-lg-3 col-md-4">
+                            <div class="client-logo-1-image alt mb_20"><img
+                                    src="assets/images/clients-logo/brand-logo-5.png" alt=""></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
 
 
         <!-- map -->
@@ -594,7 +617,7 @@
             </div>
         </section>
 
-      
+
 
         <?php include 'footer.php' ?>
 
