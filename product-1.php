@@ -143,7 +143,7 @@
         </div>
 
         <section class="banner-1-section pt_240 pb_140 bg_cover overflow-hidden"
-            style="background-image: url(assets/images/background/bg-4.jpg);">
+            >
             <div class="line-grid-wrap">
                 <span class="line-grid-1"></span>
                 <span class="line-grid-2"></span>

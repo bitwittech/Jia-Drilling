@@ -1964,6 +1964,8 @@ header.main-header.header-style-one {
 
 .c_dark4 {
 	color: #161837;
+	font-weight: 600;
+	font-size: 22px;
 }
 
 .c_dark5 {
@@ -2025,8 +2027,17 @@ header.main-header.header-style-one {
 	background-color: #f1f4fb;
 }
 
+.brandName{
+	background: #fd4b37  !important;
+}
+.brandName h1{
+	text-transform: uppercase;
+	-webkit-text-stroke-color: white !important;
+}
+
 .bg_gray2 {
 	background-color: #f4f7f9;
+	/* #fd4b37 */
 }
 
 .bg_gray3 {
@@ -2087,8 +2098,12 @@ header.main-header.header-style-one {
 
 .bg_cover {
     background-size: cover;
+
 }
 
+.banner-1-section{
+   background-color: #111720 !important;
+}
 .fw_black {
     font-weight: 900;
 }
@@ -3569,15 +3584,15 @@ a.box-btn-dark:hover {
 	z-index: 2;
 }
 
-.swiper-slide::before{
+.banner-slide::before{
 	content: "";
 	position: absolute;
 	top: 0;
 	left: 0;
 	height: 100%;
 	width: 100%;
-	background-color: rgba(0, 0, 0, 0.642);
-	opacity: 0.4; /* Adjust the opacity value (0.0 to 1.0) */
+	background-color: rgba(0, 0, 0, 0.803);
+	opacity: 1.2; /* Adjust the opacity value (0.0 to 1.0) */
 	z-index: 1;
 }
 

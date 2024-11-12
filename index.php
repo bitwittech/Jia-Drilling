@@ -184,7 +184,7 @@
             <div class="swiper-container banner-slider-2">
                 <div class="swiper-wrapper">
                     <!-- Slide Item -->
-                    <div class="swiper-slide">
+                    <div class="swiper-slide banner-slide">
                         <div class="bnox_76 p_absolute l_0 l_xxl_220 t_110 r_0 b_0 bg_cover"
                             style="background-image: url(assets/images/main-slider/banner-6.jpeg);"></div>
                         <div class="auto-container">
@@ -204,7 +204,7 @@
                     </div>
                     <!-- Slide Item -->
                     <!-- Slide Item -->
-                    <div class="swiper-slide">
+                    <div class="swiper-slide banner-slide">
                         <div class="bnox_76 p_absolute l_0 l_xxl_220 t_110 r_0 b_0 bg_cover"
                             style="background-image: url(assets/images/main-slider/banner-6.jpeg);"></div>
                         <div class="auto-container">
@@ -239,12 +239,12 @@
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="ml_xxl__155 mr_xxl__18">
                             <div class="row row-20 align-items-end">
-                                <div class="col-6">
-                                    <div class="image mb_30"><img style="width: 400px;height : 300px"  src="assets/images/resource/image-17.jpeg" alt="">
+                                <div class="col-12">
+                                    <div class="image mb_30 " style="float:right" ><img style="width: 400px;height : 300px"  src="assets/images/resource/image-17.jpeg" alt="">
                                     </div>
                                 </div>
-                                <div class="col-6" >
-                                    <div class="image mb_30"><img style="width: 400px;height : 300px; padding-top:100px" src="assets/images/resource/image-18.jpeg" alt="">
+                                <div class="col-12" >
+                                    <div class="image mb_30" style="float:right"><img style="width: 400px;height : 300px;" src="assets/images/resource/image-18.jpeg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -493,7 +493,7 @@
             </div>
         </section>
 
-        <div class="bg_gray2 pt_1 pb_1">
+        <div class="bg_gray2 pt_1 pb_1 brandName">
             <h1 class="project-1-bottom-title text_stroke mt_100" data-parallax='{"x": -50}'>Jia Drilling Jia Drilling</h1>
         </div>
 

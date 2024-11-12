@@ -19,7 +19,7 @@
         position: sticky;
         padding: 10px;
         width: 100%;
-        height: 120vh;
+        height: 100vh;
         top: 0;
         background-size: 100% 100%;
         box-sizing: border-box;
@@ -34,7 +34,7 @@
         height: 100%;
         width: 100%;
         background-color: rgba(0, 0, 0, 0.642);
-        opacity: 0.4;
+        opacity: 1;
         /* Adjust the opacity value (0.0 to 1.0) */
         z-index: 1;
     }
@@ -57,21 +57,28 @@
         background-image: url("./assets/images/background/newBG-4.jpg");
         background-repeat: no-repeat;
     }
+
+    .part h1{
+        color: white;
+         z-index: 2;
+         text-transform : uppercase;
+        font-size: 60px !important;
+    }
     </style>
 </head>
 
 <body>
     <section class="part">
-        <h1 style="color: white; z-index: 2; font-size: 50px">Adaptable Organizational Model</h1>
+        <h1 >Adaptable Organizational Model</h1>
     </section>
     <section class="part">
-        <h1 style="color: white; z-index: 2; font-size: 50px">Commitment to Sustainability</h1>
+        <h1 >Commitment to Sustainability</h1>
     </section>
     <section class="part">
-        <h1 style="color: white; z-index: 2; font-size: 50px">Global Reach and Expansion</h1>
+        <h1 >Global Reach and Expansion</h1>
     </section>
     <section class="part">
-        <h1 style="color: white;z-index: 2; font-size: 50px">Customer-Centric Approach</h1>
+        <h1 >Customer-Centric Approach</h1>
     </section>
 </body>
 

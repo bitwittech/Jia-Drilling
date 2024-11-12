@@ -145,8 +145,7 @@
             </div>
         </div>
 
-        <section class="banner-1-section pt_240 pb_140 bg_cover overflow-hidden"
-            style="background-image: url(assets/images/background/bg-4.jpg);">
+        <section class="banner-1-section pt_240 pb_140 bg_cover overflow-hidden">
             <div class="line-grid-wrap">
                 <span class="line-grid-1"></span>
                 <span class="line-grid-2"></span>
@@ -397,8 +396,7 @@
                             <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                     class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Sustainability Method
                             </h6>
-                            <h2 class="fs_45 fw_black mb_20">We Provide the Guaranteed <br>
-                                Quality in Drilling</h2>
+                            <h2 class="fs_45 fw_black mb_20">Sustainability Method</h2>
 
                             <div class="mb_15 " style="padding-left : 5px">
                                 <p class="fs_20 fw-bolder mb_5">
@@ -567,8 +565,7 @@
                                     class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Quality Policy
 
                             </h6>
-                            <h2 class="fs_45 fw_black mb_20">We Provide the Guaranteed <br>
-                                Quality in Drilling</h2>
+                            <h2 class="fs_45 fw_black mb_20">Quality Policy</h2>
 
 
 
