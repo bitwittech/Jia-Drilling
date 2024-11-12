@@ -5,10 +5,9 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="about-widget mb_40">
-                        <div class="logo mb_30"><img src="assets/images/logo-light.png" alt=""></div>
-                        <p class="c_light2 fs_16 fw_medium">Since 2005, a strong, customer-focused approach and
-                            relentless pursuit of world-class quality have helped it achieve and maintain leadership in
-                            all its main lines of business.
+                        <div class="logo mb_30"><img  width="130px" height="70px"
+                        src="assets/images/logo-light.png" alt=""></div>
+                        <p class="c_light2 fs_15 fw_medium">Jia International is a multidisciplinary technology, engineering, manufacturing and trading company. Independent services are offered to clients worldwide based on the knowledge and experience of highly skilled and dedicated professionals. Jia International is one of the fastest-growing companies of India.
                         </p>
                     </div>
                 </div>
@@ -29,7 +28,7 @@
                         <ul class="list-none p-0 link-widget-1-list c_light2 fw_medium fs_16">
                             <li><a href="dtg-drilling-method.php">DTH Drilling Rigs</a></li>
                             <li><a href="about-diamond-core-drilling.php">Diamond Core Drilling Rigs</a></li>
-                            <li><a href="budirect-mud-rotary-drilling.php">Direct Mud Rotaotry Drilling Rigs</a></li>
+                            <li><a href="budirect-mud-rotary-drilling.php">Direct Mud Rotary Drilling Rigs</a></li>
                         </ul>
                     </div>
                 </div>

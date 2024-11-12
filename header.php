@@ -4,7 +4,8 @@
         <div class="auto-container full-width pl_xxl_220">
             <div class="inner-container d-flex align-items-center justify-content-between">
                 <div class="logo-box">
-                    <div class="logo"><a href="index.php"><img src="assets/images/logo-light.png" alt=""></a></div>
+                    <div class="logo"><a href="index.php"><img style="padding: 0rem 1rem;" width="130px" height="70px"
+                                src="assets/images/logo-light.png" alt=""></a></div>
                 </div>
                 <div class="right-column d-flex align-items-center">
                     <div class="nav-outer">
@@ -57,7 +58,7 @@
 
 
                                             <li class="dropdown">
-                                                <a href="#">Construction & Piling Drilling Rig</a>
+                                                <a href="#">Drilling & Piling Drilling Rig</a>
                                                 <ul>
                                                     <li><a href="product-5.php">JAT 12</a></li>
                                                 </ul>
@@ -93,7 +94,7 @@
                                                 </ul>
                                             </li>
                                             <!-- <li><a href="product-1.php">Water Well Drilling Rig</a></li>
-                                        <li><a href="projects2.html">Construction & Piling Drilling Rig</a></li>
+                                        <li><a href="projects2.html">Drilling & Piling Drilling Rig</a></li>
                                         <li><a href="projects3.html">Portable Drilling Rig</a></li>
                                         <li><a href="projects4.html">Blast Hole Drilling Rig</a></li>
                                         <li><a href="projects5.html">Exploration Drilling Rig</a></li>
@@ -125,7 +126,8 @@
             <div class="auto-container full-width pl_xxl_220">
                 <div class="inner-container d-flex align-items-center justify-content-between">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="assets/images/logo-light.png" alt=""></a></div>
+                        <div class="logo"><a href="index.php"><img style="padding: 0rem 1rem;" width="130px" height="70px"
+                        src="assets/images/logo-light.png" alt=""></a></div>
                     </div>
                     <div class="right-column d-flex align-items-center">
                         <div class="nav-outer">
@@ -151,7 +153,8 @@
         <div class="close-btn"><span class="fal fa-times"></span></div>
 
         <nav class="menu-box">
-            <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-light.png" alt="" title=""></a>
+            <div class="nav-logo"><a href="index.php"><img style="padding: 0rem 1rem;" width="130px" height="70px"
+            src="assets/images/logo-light.png" alt=""></a>
             </div>
             <div class="menu-outer">
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->

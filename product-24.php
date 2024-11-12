@@ -53,7 +53,7 @@
                 <div class="content">
                     <div class="about-widget-two sidebar-widget">
                         <h3>Finding The Best <br>
-                            Construction Services </h3>
+                            Drilling Services </h3>
                         <div class="text">We denounce with righteous indignation and dislike men who we are to beguiled
                             demoralized by the charms of pleasures that moment, so we blinded desires, that they
                             indignations.</div>
@@ -181,7 +181,7 @@
                         <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                 class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>product details</h6>
                         <h2 class="fw_black fs_30 mb_20"> SOLID 60 TRUCK MOUNTED DTHR WATER WELL DRILLING RIG</h2>
-                        <p class="mb_15 fs_16">The SOLID 60 is a Truck Mounted DTHR Water Well Drilling Rig especially designed for water well drilling up to 2,000 feet (600 Meters) for a drill diameter of 6 ½" −12". It is also capable of Rotary drilling with 36 000 Kg pull-up force and 0 − 100 RPM or may be used with down-the-hole drills when equipped with a high-pressure air compressor. The SOLID 60 is a double truck version DTHR Drilling Rig in which rig construction is on one truck, in which hydraulic operations are driven by a deck engine whereas a carrier truck is utilized for compressor mounting.
+                        <p class="mb_15 fs_16">The SOLID 60 is a Truck Mounted DTHR Water Well Drilling Rig especially designed for water well drilling up to 2,000 feet (600 Meters) for a drill diameter of 6 ½" −12". It is also capable of Rotary drilling with 36 000 Kg pull-up force and 0 − 100 RPM or may be used with down-the-hole drills when equipped with a high-pressure air compressor. The SOLID 60 is a double truck version DTHR Drilling Rig in which rig Drilling is on one truck, in which hydraulic operations are driven by a deck engine whereas a carrier truck is utilized for compressor mounting.
 
 
                         </p>

@@ -53,7 +53,7 @@
                 <div class="content">
                     <div class="about-widget-two sidebar-widget">
                         <h3>Finding The Best <br>
-                            Construction Services </h3>
+                            Drilling Services </h3>
                         <div class="text">We denounce with righteous indignation and dislike men who we are to beguiled
                             demoralized by the charms of pleasures that moment, so we blinded desires, that they
                             indignations.</div>
@@ -211,7 +211,7 @@
             </tr>
             <tr class="light">
                 <td>MAST</td>
-                <td>• Construction − Heavy Duty electric welded tubular construction.<br>
+                <td>• Drilling − Heavy Duty electric welded tubular Drilling.<br>
                     • Height − 46 Foot (14.0 Meter) high above ground level during drilling<br>
                     • Gross Load Capacity − 41,000 Kgs by using Double Sheave Travelling Block<br>
                     • Raising &amp; Lowering − By Hydraulic Cylinder − 02 No. with safety check valve<br>

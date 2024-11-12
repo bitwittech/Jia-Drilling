@@ -53,7 +53,7 @@
                 <div class="content">
                     <div class="about-widget-two sidebar-widget">
                         <h3>Finding The Best <br>
-                            Construction Services </h3>
+                            Drilling Services </h3>
                         <div class="text">We denounce with righteous indignation and dislike men who we are to beguiled
                             demoralized by the charms of pleasures that moment, so we blinded desires, that they
                             indignations.</div>
@@ -175,13 +175,13 @@
             <div class="auto-container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="mb_30"><img src="assets/newImages/Construction & Piling Rig/JAT-12.jpg" alt=""></div>
+                        <div class="mb_30"><img src="assets/newImages/Drilling & Piling Rig/JAT-12.jpg" alt=""></div>
                     </div>
                     <div class="col-lg-6 ps-lg-5">
                         <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                 class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>product details</h6>
                         <h2 class="fw_black fs_30 mb_20">JAT-12 TRACTOR MOUNTED AUGER PILING RIG</h2>
-                        <p class="mb_15 fs_16">The JAT − 12 is a Tractor Mounted Auger Piling Rig especially designed for construction piling for rotary mud drilling up to 98 feet (30 Meters) for a drill diameter of 12" (305 mm). Auger drilling is suitable for soft unconsolidated formations such as clay and sand. It is also capable of Rotary drilling with 4700 Kg pull force and 0 − 80 RPM or may be used with down-the-hole drills of 6 ½" when equipped with a high-pressure air compressor up to a depth of 400 Foot (122 Meters). The same rig can also be utilized for domestic water well drilling, exploration, and solar panel piling work.
+                        <p class="mb_15 fs_16">The JAT − 12 is a Tractor Mounted Auger Piling Rig especially designed for Drilling piling for rotary mud drilling up to 98 feet (30 Meters) for a drill diameter of 12" (305 mm). Auger drilling is suitable for soft unconsolidated formations such as clay and sand. It is also capable of Rotary drilling with 4700 Kg pull force and 0 − 80 RPM or may be used with down-the-hole drills of 6 ½" when equipped with a high-pressure air compressor up to a depth of 400 Foot (122 Meters). The same rig can also be utilized for domestic water well drilling, exploration, and solar panel piling work.
 
 
                         </p>

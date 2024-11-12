@@ -54,7 +54,7 @@
                 <div class="content">
                     <div class="about-widget-two sidebar-widget">
                         <h3>Finding The Best <br>
-                            Construction Services </h3>
+                            Drilling Services </h3>
                         <div class="text">We denounce with righteous indignation and dislike men who we are to beguiled
                             demoralized by the charms of pleasures that moment, so we blinded desires, that they
                             indignations.</div>
@@ -176,22 +176,15 @@
                     <div class="col-lg-5">
                         <div class="p_relative">
                             <div class="image p_relative d_iblock" data-parallax='{"y": -20}'>
-                                <img src="assets/images/resource/roller.png" alt="">
+                                <img src="assets/images/resource/image-17.jpeg" alt="">
                             </div>
-                            <div class="image p_relative b_40 text-end" data-parallax='{"y": 20}'>
-                                <img src="assets/images/resource/image-3.jpg" alt="">
-                            </div>
-                            <div class="experience-year fs_18 fw_bold ff_sec theme-bg p_absolute l_60 b_110 text-center text-light pt_30 b_radius_50 lh_20"
-                                data-parallax='{"x": 20}'><span class="fs_60 fw_black mb_25 d_iblock">20</span><br>
-                                Years <br> Experience</div>
                         </div>
                     </div>
                     <div class="col-lg-7 ps-lg-5">
                         <div class="p_relative">
                             <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                     class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>About Company</h6>
-                            <h2 class="fs_45 fw_black mb_20">We Provide the Guaranteed <br>
-                                Quality in Construction</h2>
+                            <h2 class="fs_45 fw_black mb_20">About Company</h2>
                             <p class="mb_20 fs_15">Since 2005, a strong, customer-focused approach and relentless
                                 pursuit of world-class quality have helped it achieve and maintain leadership in all its
                                 main lines of business.
@@ -277,7 +270,7 @@
                             </p>
                             <!-- <div class="mw_480">
                                 <div class="skill-1-progressbar-item mb_11">
-                                    <p class="skill-1-progressbar-title fs_20 fw_sbold mb_5 c_dark">Construction</p>
+                                    <p class="skill-1-progressbar-title fs_20 fw_sbold mb_5 c_dark">Drilling</p>
                                     <div class="progressbar-1-outer h_11 b_radius_5 p_relative">
                                         <div class="progressbar-1-inner progress-line p_absolute l_0 t_0 b_0 theme-bg b_radius_5"
                                             data-width="96">
@@ -305,7 +298,7 @@
                     </div>
                     <div class="col-lg-5 wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="feature-image-1">
-                            <img src="assets/images/resource/image-25.jpg" alt="">
+                            <img src="assets/images/resource/History.jpeg" alt="">
                         </div>
                     </div>
                 </div>
@@ -380,7 +373,7 @@
                     </div>
                     <div class="col-lg-5 wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="feature-image-1">
-                            <img src="assets/images/resource/image-25.jpg" alt="">
+                            <img src="assets/images/resource/Strategies.jpeg" alt="">
                         </div>
                     </div>
                 </div>
@@ -395,14 +388,8 @@
                     <div class="col-lg-5">
                         <div class="p_relative">
                             <div class="image p_relative d_iblock" data-parallax='{"y": -20}'>
-                                <img src="assets/images/resource/roller.png" alt="">
+                                <img src="assets/images/resource/Sustainability.jpg" alt="">
                             </div>
-                            <div class="image p_relative b_40 text-end" data-parallax='{"y": 20}'>
-                                <img src="assets/images/resource/image-3.jpg" alt="">
-                            </div>
-                            <div class="experience-year fs_18 fw_bold ff_sec theme-bg p_absolute l_60 b_110 text-center text-light pt_30 b_radius_50 lh_20"
-                                data-parallax='{"x": 20}'><span class="fs_60 fw_black mb_25 d_iblock">20</span><br>
-                                Years <br> Experience</div>
                         </div>
                     </div>
                     <div class="col-lg-7 ps-lg-5">
@@ -411,7 +398,7 @@
                                     class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Sustainability Method
                             </h6>
                             <h2 class="fs_45 fw_black mb_20">We Provide the Guaranteed <br>
-                                Quality in Construction</h2>
+                                Quality in Drilling</h2>
 
                             <div class="mb_15 " style="padding-left : 5px">
                                 <p class="fs_20 fw-bolder mb_5">
@@ -556,7 +543,7 @@
                     </div>
                     <div class="col-lg-5 wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="feature-image-1">
-                            <img src="assets/images/resource/image-25.jpg" alt="">
+                            <img src="assets/images/resource/Innovations.jpeg" alt="">
                         </div>
                     </div>
                 </div>
@@ -570,14 +557,8 @@
                     <div class="col-lg-5">
                         <div class="p_relative">
                             <div class="image p_relative d_iblock" data-parallax='{"y": -20}'>
-                                <img src="assets/images/resource/roller.png" alt="">
+                                <img src="assets/images/resource/Quality Control.jpeg" alt="">
                             </div>
-                            <div class="image p_relative b_40 text-end" data-parallax='{"y": 20}'>
-                                <img src="assets/images/resource/image-3.jpg" alt="">
-                            </div>
-                            <div class="experience-year fs_18 fw_bold ff_sec theme-bg p_absolute l_60 b_110 text-center text-light pt_30 b_radius_50 lh_20"
-                                data-parallax='{"x": 20}'><span class="fs_60 fw_black mb_25 d_iblock">20</span><br>
-                                Years <br> Experience</div>
                         </div>
                     </div>
                     <div class="col-lg-7 ps-lg-5">
@@ -587,7 +568,7 @@
 
                             </h6>
                             <h2 class="fs_45 fw_black mb_20">We Provide the Guaranteed <br>
-                                Quality in Construction</h2>
+                                Quality in Drilling</h2>
 
 
 

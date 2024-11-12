@@ -51,7 +51,7 @@
                 <div class="content">
                     <div class="about-widget-two sidebar-widget">
                         <h3>Finding The Best <br>
-                            Construction Services </h3>
+                            Drilling Services </h3>
                         <div class="text">We denounce with righteous indignation and dislike men who we are to beguiled
                             demoralized by the charms of pleasures that moment, so we blinded desires, that they
                             indignations.</div>
@@ -215,9 +215,9 @@
                             tend to repeat presure.</p>
                         <ul class="list-1 fs_20 fw_medium c_dark2 mb_10">
                             <li><i class="flaticon-fast-forward"></i>Start JST-10 TRACTOR MOUNTED SEISMIC SHOT HOLE DRILLING RIG Planning</li>
-                            <li><i class="flaticon-fast-forward"></i>Quality Construction</li>
+                            <li><i class="flaticon-fast-forward"></i>Quality Drilling</li>
                             <li><i class="flaticon-fast-forward"></i>Work With Architecture Style</li>
-                            <li><i class="flaticon-fast-forward"></i>Construction Consult With Expert</li>
+                            <li><i class="flaticon-fast-forward"></i>Drilling Consult With Expert</li>
                         </ul>
                     </div>
                 </div>

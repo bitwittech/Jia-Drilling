@@ -52,7 +52,7 @@
                 <div class="content">
                     <div class="about-widget-two sidebar-widget">
                         <h3>Finding The Best <br>
-                            Construction Services </h3>
+                            Drilling Services </h3>
                         <div class="text">We denounce with righteous indignation and dislike men who we are to beguiled
                             demoralized by the charms of pleasures that moment, so we blinded desires, that they
                             indignations.</div>
@@ -174,7 +174,7 @@
             <div class="auto-container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="mb_30"><img src="assets/images/resource/service-2.jpg" alt=""></div>
+                        <center class="mb_30"><img style="width: 900px;" src="assets/images/resource/DTH Drilling Method.png" alt=""></center>
                     </div>
                     <div class="col-lg-12 ps-lg-12">
                         <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
@@ -261,10 +261,10 @@
                             uses a dictionary of over 200 Latin words, combined with a handful of model sentence ernet
                             tend to repeat presure.</p>
                         <ul class="list-1 fs_20 fw_medium c_dark2 mb_10">
-                            <li><i class="flaticon-fast-forward"></i>Start Building Construction Planning</li>
-                            <li><i class="flaticon-fast-forward"></i>Quality Construction</li>
+                            <li><i class="flaticon-fast-forward"></i>Start Building Drilling Planning</li>
+                            <li><i class="flaticon-fast-forward"></i>Quality Drilling</li>
                             <li><i class="flaticon-fast-forward"></i>Work With Architecture Style</li>
-                            <li><i class="flaticon-fast-forward"></i>Construction Consult With Expert</li>
+                            <li><i class="flaticon-fast-forward"></i>Drilling Consult With Expert</li>
                         </ul>
                     </div>
                 </div>

@@ -84,7 +84,7 @@
                 <div class="content">
                     <div class="about-widget-two sidebar-widget">
                         <h3>Finding The Best <br>
-                            Construction Services </h3>
+                            Drilling Services </h3>
                         <div class="text">We denounce with righteous indignation and dislike men who we are to beguiled
                             demoralized by the charms of pleasures that moment, so we blinded desires, that they
                             indignations.</div>
@@ -179,19 +179,19 @@
 
 
         <section class="banner-1-section banner-section bg_dark5 overflow-hidden">
-            <h1 class="banner-1-side-text text_stroke">Construction</h1>
+            <h1 class="banner-1-side-text text_stroke">Drilling</h1>
 
             <div class="swiper-container banner-slider-2">
                 <div class="swiper-wrapper">
                     <!-- Slide Item -->
                     <div class="swiper-slide">
                         <div class="bnox_76 p_absolute l_0 l_xxl_220 t_110 r_0 b_0 bg_cover"
-                            style="background-image: url(assets/images/main-slider/banner-6.jpg);"></div>
+                            style="background-image: url(assets/images/main-slider/banner-6.jpeg);"></div>
                         <div class="auto-container">
                             <div class="content-box p_inherit pt_330 pb_200">
                                 <div class="inner">
                                     <h1 class="c_light mb_30 fw_black fs_70">We Provide the Guaranteed Quality in
-                                        Construction </h1>
+                                        Drilling </h1>
                                     <p class="mb_40 fs_22 c_light">Jia International is a multi-disciplinary technology,
                                         engineering, manufacturing, and trading company. Independent services are
                                         offered to clients worldwide based on the knowledge and experience of highly
@@ -206,12 +206,12 @@
                     <!-- Slide Item -->
                     <div class="swiper-slide">
                         <div class="bnox_76 p_absolute l_0 l_xxl_220 t_110 r_0 b_0 bg_cover"
-                            style="background-image: url(assets/images/main-slider/banner-6.jpg);"></div>
+                            style="background-image: url(assets/images/main-slider/banner-6.jpeg);"></div>
                         <div class="auto-container">
                             <div class="content-box p_inherit pt_330 pb_200">
                                 <div class="inner">
                                     <h1 class="c_light mb_30 fw_black fs_70">We Provide the Guaranteed Quality in
-                                        Construction </h1>
+                                        Drilling </h1>
                                     <p class="mb_40 fs_22 c_light">Jia International is a multi-disciplinary technology,
                                         engineering, manufacturing, and trading company. Independent services are
                                         offered to clients worldwide based on the knowledge and experience of highly
@@ -240,11 +240,11 @@
                         <div class="ml_xxl__155 mr_xxl__18">
                             <div class="row row-20 align-items-end">
                                 <div class="col-6">
-                                    <div class="image mb_30"><img src="assets/images/resource/image-17.jpg" alt="">
+                                    <div class="image mb_30"><img style="width: 400px;height : 300px"  src="assets/images/resource/image-17.jpeg" alt="">
                                     </div>
                                 </div>
-                                <div class="col-6">
-                                    <div class="image mb_30"><img src="assets/images/resource/image-18.jpg" alt="">
+                                <div class="col-6" >
+                                    <div class="image mb_30"><img style="width: 400px;height : 300px; padding-top:100px" src="assets/images/resource/image-18.jpeg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -255,7 +255,7 @@
                             <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                     class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Welcome to Jia Drilling.
                             </h6>
-                            <h2 class="fs_45 fw_black mb_30 c_light">We Are Best Company In <br> Constrcution</h2>
+                            <h2 class="fs_45 fw_black mb_30 c_light">We Are Best Company In <br> Drilling</h2>
                             <p class="mb_30 fs_16 c_light">Since 2005, a strong, customer-focused approach and
                                 relentless pursuit of world-class quality have helped it achieve and maintain leadership
                                 in all its main lines of business. <br>
@@ -276,27 +276,16 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <ul class="list-1 c_light fs_20 fw_medium mb_30">
-                                        <li><i class="flaticon-comment"></i>100% Satisfaction</li>
-                                        <li><i class="flaticon-comment"></i>Flexible and Cost-Effective</li>
+                                        <li><i class="flaticon-comment"></i>Adaptable Organizational Model</li>
+                                        <li><i class="flaticon-comment"></i>Global Reach and Expansion</li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6">
                                     <ul class="list-1 c_light fs_20 fw_medium mb_30">
-                                        <li><i class="flaticon-comment"></i>Annual Pass Programs</li>
-                                        <li><i class="flaticon-comment"></i>Trained Emploies</li>
+                                        <li><i class="flaticon-comment"></i>Commitment toяSustainability</li>
+                                        <li><i class="flaticon-comment"></i>Customer-Centric Approach</li>
                                     </ul>
                                 </div>
-                            </div>
-                            <div class="author-box d-flex align-items-center">
-                                <div class="image mb_20 mr_25"><img class="b_radius_50"
-                                        src="assets/images/resource/author-6.jpg" alt=""></div>
-                                <div class="mb_25 mr_40">
-                                    <p class="c_light mb_0 fs_20 lh_30"><span class="fs_18 fw_medium">Call Us</span>
-                                        <br> <a class="fs_20 fw_sbold" href="tel:18004567890">+91-94281 18030</a>
-                                    </p>
-                                </div>
-                                <div class="signature mb_20 mt_15"><img src="assets/images/resource/signature5.png"
-                                        alt=""></div>
                             </div>
                         </div>
                     </div>
@@ -420,7 +409,7 @@
                                     </div>
                                     <div class="project-1-content">
                                         <p class="project-1-cat">JAT-12</p>
-                                        <h4 class="project-1-title">Construction Pipeline Drilling</h4>
+                                        <h4 class="project-1-title">Drilling Pipeline Drilling</h4>
                                     </div>
                                 </div>
                             </div>
@@ -505,7 +494,7 @@
         </section>
 
         <div class="bg_gray2 pt_1 pb_1">
-            <h1 class="project-1-bottom-title text_stroke mt_100" data-parallax='{"x": -50}'>Jia Drilling</h1>
+            <h1 class="project-1-bottom-title text_stroke mt_100" data-parallax='{"x": -50}'>Jia Drilling Jia Drilling</h1>
         </div>
 
         <!-- testimonial -->

@@ -53,7 +53,7 @@
                 <div class="content">
                     <div class="about-widget-two sidebar-widget">
                         <h3>Finding The Best <br>
-                            Construction Services </h3>
+                            Drilling Services </h3>
                         <div class="text">We denounce with righteous indignation and dislike men who we are to beguiled
                             demoralized by the charms of pleasures that moment, so we blinded desires, that they
                             indignations.</div>
@@ -194,7 +194,7 @@
                         <div class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                             <div>                            
                                 <i class="flaticon-roof fs_65 c_primary mb_40 d_iblock"></i>
-                                <h4 class="fs_18 fw_normal c_dark4">About Diamond Core Drilling</span></h4>
+                                <h4 class="fs_18 fw_normal c_dark4">Diamond Core Drilling</span></h4>
                                 <div class="link mb_75"><a href="about-diamond-core-drilling.php" class="ff_sec fw_bold tt_u fs_14 ls_1 c_light_dark">View more <i class="p_relative t_3 c_primary ml_10 fs_20 v_middle flaticon-right-arrow-2"></i></a></div>
                                 <div class="p_relative"><h5 class="fs_14 c_light_dark">02.</h5></div>
                             </div>
@@ -232,7 +232,7 @@
                                 <h6 class="c_primary2 ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                         class="w_30 h_2 bg_primary3 mr_10 d_iblock v_middle"></span>Bigger, Better,
                                     Faster </h6>
-                                <h2 class="c_light fs_45 fw_black mb_18">Leading Way In Civil <br> Construction</h2>
+                                <h2 class="c_light fs_45 fw_black mb_18">Leading Way In Civil <br> Drilling</h2>
                                 <p class="mb_20 fs_16 c_light p_relative">Bring to the table win-win survival strategies
                                     to ensure
                                     proactive domination. At the end of the day, going forward, a new normal that has
