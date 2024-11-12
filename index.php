@@ -282,7 +282,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <ul class="list-1 c_light fs_20 fw_medium mb_30">
-                                        <li><i class="flaticon-comment"></i>Commitment toяSustainability</li>
+                                        <li><i class="flaticon-comment"></i>Commitment to Sustainability</li>
                                         <li><i class="flaticon-comment"></i>Customer-Centric Approach</li>
                                     </ul>
                                 </div>
@@ -328,7 +328,7 @@
                                 class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                                 <div>
                                     <i class="flaticon-roof fs_65 c_primary mb_40 d_iblock"></i>
-                                    <h4 class="fs_18 fw_normal c_dark4">About Diamond Core Drilling</span></h4>
+                                    <h4 class="fs_18 fw_normal c_dark4">Diamond Core Drilling</span></h4>
                                     <div class="link mb_75"><a href="about-diamond-core-drilling.php"
                                             class="ff_sec fw_bold tt_u fs_14 ls_1 c_light_dark">View more <i
                                                 class="p_relative t_3 c_primary ml_10 fs_20 v_middle flaticon-right-arrow-2"></i></a>

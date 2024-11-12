@@ -65,7 +65,7 @@
         <h1 style="color: white; z-index: 2; font-size: 50px">Adaptable Organizational Model</h1>
     </section>
     <section class="part">
-        <h1 style="color: white; z-index: 2; font-size: 50px">Commitment toяSustainability</h1>
+        <h1 style="color: white; z-index: 2; font-size: 50px">Commitment to Sustainability</h1>
     </section>
     <section class="part">
         <h1 style="color: white; z-index: 2; font-size: 50px">Global Reach and Expansion</h1>

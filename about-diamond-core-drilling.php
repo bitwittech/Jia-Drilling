@@ -221,7 +221,7 @@
                             uses a dictionary of over 200 Latin words, combined with a handful of model sentence ernet
                             tend to repeat presure.</p>
                         <ul class="list-1 fs_20 fw_medium c_dark2 mb_10">
-                            <li><i class="flaticon-fast-forward"></i>Start About Diamond Core Drilling Planning</li>
+                            <li><i class="flaticon-fast-forward"></i>Start Diamond Core Drilling Planning</li>
                             <li><i class="flaticon-fast-forward"></i>Quality Drilling</li>
                             <li><i class="flaticon-fast-forward"></i>Work With Architecture Style</li>
                             <li><i class="flaticon-fast-forward"></i>Drilling Consult With Expert</li>
