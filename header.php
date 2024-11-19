@@ -102,7 +102,7 @@
                                         <li><a href="product-details.html">Accessories</a></li> -->
                                         </ul>
                                     </li>
-                                    <li><a href="services.php">Services</a>
+                                    <li><a href="services.php">Blogs</a>
                                     </li>
                                     <!-- <li><a href="#">Career</a>
                                     </li> -->
