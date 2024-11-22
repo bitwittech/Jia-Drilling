@@ -64,7 +64,7 @@
 </head>
 
 <body>
- 
+
     <div class="page-wrapper">
         <div class="loader-wrap">
             <div class="preloader">
@@ -186,11 +186,12 @@
                     <!-- Slide Item -->
                     <div class="swiper-slide banner-slide">
                         <div class="bnox_76 p_absolute l_0 l_xxl_220 t_110 r_0 b_0 bg_cover"
-                            style="background-image: url(assets/images/main-slider/banner-6.jpeg);"></div>
+                            style="background-image: url(assets/images/main-slider/new_banner.png);"></div>
                         <div class="auto-container">
                             <div class="content-box p_inherit pt_330 pb_200">
                                 <div class="inner">
-                                    <h1 class="c_light mb_30 fw_black fs_70">Precision you Trust, Quality we Guarantee! </h1>
+                                    <h1 class="c_light mb_30 fw_black fs_70">Precision you Trust, Quality we Guarantee!
+                                    </h1>
                                     <p class="mb_40 fs_22 c_light">Jia International is a multi-disciplinary technology,
                                         engineering, manufacturing, and trading company. Independent services are
                                         offered to clients worldwide based on the knowledge and experience of highly
@@ -205,11 +206,12 @@
                     <!-- Slide Item -->
                     <div class="swiper-slide banner-slide">
                         <div class="bnox_76 p_absolute l_0 l_xxl_220 t_110 r_0 b_0 bg_cover"
-                            style="background-image: url(assets/images/main-slider/banner-6.jpeg);"></div>
+                            style="background-image: url(assets/images/main-slider/new_banner.png);"></div>
                         <div class="auto-container">
                             <div class="content-box p_inherit pt_330 pb_200">
                                 <div class="inner">
-                                    <h1 class="c_light mb_30 fw_black fs_70">Precision you Trust, Quality we Guarantee!</h1>
+                                    <h1 class="c_light mb_30 fw_black fs_70">Precision you Trust, Quality we Guarantee!
+                                    </h1>
                                     <p class="mb_40 fs_22 c_light">Jia International is a multi-disciplinary technology,
                                         engineering, manufacturing, and trading company. Independent services are
                                         offered to clients worldwide based on the knowledge and experience of highly
@@ -236,13 +238,10 @@
                 <div class="row">
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="ml_xxl__155 mr_xxl__18">
-                            <div class="row row-20 align-items-end">
-                                <div class="col-12">
-                                    <div class="image mb_30 " style="float:right" ><img style="width: 400px;height : 300px"  src="assets/images/resource/image-17.jpeg" alt="">
-                                    </div>
-                                </div>
-                                <div class="col-12" >
-                                    <div class="image mb_30" style="float:right"><img style="width: 400px;height : 300px;" src="assets/images/resource/image-18.jpeg" alt="">
+                            <div class="row row-20 align-items-center">
+                                <div class="col-12 " >
+                                    <div class="image " style="float:right"><img
+                                            src="assets/images/resource/Welcome.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -253,7 +252,8 @@
                             <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                     class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Welcome to Jia Drilling.
                             </h6>
-                            <h2 class="fs_45 fw_black mb_30 c_light">Your Trusted Partner for Power-Packed Drilling Solutions! </h2>
+                            <h2 class="fs_45 fw_black mb_30 c_light">Your Trusted Partner for Power-Packed Drilling
+                                Solutions! </h2>
                             <p class="mb_30 fs_16 c_light">Since 2005, a strong, customer-focused approach and
                                 relentless pursuit of world-class quality have helped it achieve and maintain leadership
                                 in all its main lines of business. <br>
@@ -299,17 +299,20 @@
                     <div class="col-lg-12 mb-2">
                         <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                 class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>What we do</h6>
-                        <h2 class="fs_45 fw_black mb_30">Our Featured Services</h2>
+                        <h2 class="fs_45 fw_black mb_20">Our Featured Products</h2>
                         <!-- <div class="link-btn"><a href="services.html" class="c_primary td_underline ff_sec fw_bold tt_u fs_14 ls_1">view all services </a></div> -->
+                         <p>JIA Drilling Rigs are engineered to perform in the harshest drilling conditions. With a strong focus on innovation, we ensure that our rigs consistently provide exceptional performance and efficiency. Understanding that each drilling project is unique, we offer a broad range of rigs tailored to meet the specific demands of various terrains, geological formations, and specialized drilling requirements.</p>
                     </div>
                     <div class="col-lg-4 ">
                         <div class="wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                             <div
                                 class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                                 <div>
-                                    <i class="flaticon-renovation fs_65 c_primary mb_40 d_iblock"></i>
-                                    <h4 class="fs_18 fw_normal c_dark4">DTH Drilling Methods</span></h4>
-                                    <div class="link mb_75"><a href="dtg-drilling-method.php"
+                                    <img src="./assets/newImages/blogs/Construction & Augar Piling.jpg" alt="service_img" />
+                                    <br>
+                                    <br>
+                                    <h4 class="fs_18 fw_normal c_dark4">Construction & Augar Piling</span></h4>
+                                    <div class="link mb_75"><a href="construction-&-augar-pilling.php"
                                             class="ff_sec fw_bold tt_u fs_14 ls_1 c_light_dark">View more <i
                                                 class="p_relative t_3 c_primary ml_10 fs_20 v_middle flaticon-right-arrow-2"></i></a>
                                     </div>
@@ -325,9 +328,11 @@
                             <div
                                 class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                                 <div>
-                                    <i class="flaticon-roof fs_65 c_primary mb_40 d_iblock"></i>
-                                    <h4 class="fs_18 fw_normal c_dark4">Diamond Core Drilling</span></h4>
-                                    <div class="link mb_75"><a href="about-diamond-core-drilling.php"
+                                <img src="./assets/newImages/blogs/Geo Exploration.png" alt="service_img" />
+                                    <br>
+                                    <br>
+                                    <h4 class="fs_18 fw_normal c_dark4">Geo Exploration</span></h4>
+                                    <div class="link mb_75"><a href="geo-exploration.php"
                                             class="ff_sec fw_bold tt_u fs_14 ls_1 c_light_dark">View more <i
                                                 class="p_relative t_3 c_primary ml_10 fs_20 v_middle flaticon-right-arrow-2"></i></a>
                                     </div>
@@ -343,9 +348,11 @@
                             <div
                                 class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                                 <div>
-                                    <i class="flaticon-trowel fs_65 c_primary mb_40 d_iblock"></i>
-                                    <h4 class="fs_18 fw_normal c_dark4">Direct Mud Rotary Drilling </span></h4>
-                                    <div class="link mb_75"><a href="budirect-mud-rotary-drilling.php"
+                                <img src="./assets/newImages/blogs/Mining.jpg" alt="service_img" />
+                                    <br>
+                                    <br>
+                                    <h4 class="fs_18 fw_normal c_dark4">Mining</span></h4>
+                                    <div class="link mb_75"><a href="minning.php"
                                             class="ff_sec fw_bold tt_u fs_14 ls_1 c_light_dark">View more <i
                                                 class="p_relative t_3 c_primary ml_10 fs_20 v_middle flaticon-right-arrow-2"></i></a>
                                     </div>
@@ -356,13 +363,53 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-4">
+                        <div class="wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
+                            <div
+                                class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
+                                <div>
+                                <img src="./assets/newImages/blogs/Soil Testing.jpg" alt="service_img" />
+                                    <br>
+                                    <br>
+                                    <h4 class="fs_18 fw_normal c_dark4">Soil Testing</span></h4>
+                                    <div class="link mb_75"><a href="soil-testing.php"
+                                            class="ff_sec fw_bold tt_u fs_14 ls_1 c_light_dark">View more <i
+                                                class="p_relative t_3 c_primary ml_10 fs_20 v_middle flaticon-right-arrow-2"></i></a>
+                                    </div>
+                                    <div class="p_relative">
+                                        <h5 class="fs_14 c_light_dark">04.</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
+                            <div
+                                class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
+                                <div>
+                                <img src="./assets/newImages/blogs/Water Well.jpg" alt="service_img" />
+                                    <br>
+                                    <br>
+                                    <h4 class="fs_18 fw_normal c_dark4">Water Well</span></h4>
+                                    <div class="link mb_75"><a href="water-well.php"
+                                            class="ff_sec fw_bold tt_u fs_14 ls_1 c_light_dark">View more <i
+                                                class="p_relative t_3 c_primary ml_10 fs_20 v_middle flaticon-right-arrow-2"></i></a>
+                                    </div>
+                                    <div class="p_relative">
+                                        <h5 class="fs_14 c_light_dark">05.</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
 
         <div>
-        <?php include "parallax.php" ?>
-    </div>
+            <?php include "parallax.php" ?>
+        </div>
 
 
         <!-- project -->
@@ -492,13 +539,65 @@
         </section>
 
         <div class="bg_gray2 pt_1 pb_1 brandName">
-            <h1 class="project-1-bottom-title text_stroke mt_100" data-parallax='{"x": -50}'>Jia Drilling Jia Drilling</h1>
+            <h1 class="project-1-bottom-title text_stroke mt_100" data-parallax='{"x": -50}'>Jia Drilling Jia Drilling
+            </h1>
         </div>
 
 
         <section>
-       <?php include "map.php" ?>     
-       </section>
+            <?php include "map.php" ?>
+        </section>
+
+        <section class="pt_120 pb_90 bg_gray10">
+            <div class="auto-container">
+                <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
+                        class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Quotation Details
+                        </h6>
+                <h2 class="fw_black fs_45 mb_50">We’re Eager to Hear From You</h2>
+                <div class="row">
+                    <div class="col-lg-7">
+                        <div class="">
+                            <form method="post" id="contact-form"
+                                action="https://azim.hostlin.com/buildnox/assets/inc/sendmail.php">
+                                <div class="row">
+                                    <div class="form-group col-md-12">
+                                        <input type="text" name="form_name" class="form-control" value=""
+                                            placeholder="Your Name" required>
+                                    </div>
+
+                                    <div class="form-group col-md-12">
+                                        <input type="text" name="form_email" class="form-control" value=""
+                                            placeholder="Your Email" required>
+                                    </div>
+
+                                    <div class="form-group col-md-12">
+                                        <input type="text" name="form_subject" class="form-control" value=""
+                                            placeholder="Subject" required>
+                                    </div>
+
+                                    <div class="form-group col-md-12">
+                                        <textarea name="form_message" class="form-control"
+                                            placeholder="Massage"></textarea>
+                                    </div>
+                                    <div class="form-group col-md-12">
+                                        <input id="form_botcheck" name="form_botcheck" class="form-control"
+                                            type="hidden" value="">
+                                        <button
+                                            class="btn-1 text-center pt_12 pb_9 pl_30 pr_30 b_radius_5 ff_sec fw_bold tt_u fs_14 ls_1"
+                                            type="submit">Submit now <span></span></button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-lg-5">
+                        <div class="ms-lg-5">
+                        <img height="700px" width="500px" src="assets/images/resource/Quotation.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!-- map -->
         <section class="map-1-section">

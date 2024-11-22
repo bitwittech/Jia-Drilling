@@ -4,7 +4,7 @@
         <div class="auto-container full-width pl_xxl_220">
             <div class="inner-container d-flex align-items-center justify-content-between">
                 <div class="logo-box">
-                    <div class="logo"><a href="index.php"><img style="padding: 0rem 1rem;" width="130px" height="70px"
+                    <div class="logo"><a href="index.php"><img style="padding: 0rem 1rem;" width="200px" height="170px"
                                 src="assets/images/logo-light.png" alt=""></a></div>
                 </div>
                 <div class="right-column d-flex align-items-center">
@@ -16,6 +16,7 @@
                                     <li><a href="index.php">Home</a>
                                     </li>
                                     <li><a href="about.php">About</a>
+                                    <li><a href="accessories.php">Accessories</a>
                                         <!-- <ul>
                                         <li><a href="about-2.html">Company</a></li> 
                                         <li><a href="about.html">Strategy</a></li> 
@@ -61,6 +62,7 @@
                                                 <a href="#">Drilling & Piling Drilling Rig</a>
                                                 <ul>
                                                     <li><a href="product-5.php">JAT 12</a></li>
+                                                    <li><a href="product-26.php">JAT 24</a></li>
                                                 </ul>
                                             </li>
                                             <li class="dropdown">
@@ -126,7 +128,7 @@
             <div class="auto-container full-width pl_xxl_220">
                 <div class="inner-container d-flex align-items-center justify-content-between">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.php"><img style="padding: 0rem 1rem;" width="130px" height="70px"
+                        <div class="logo"><a href="index.php"><img style="padding: 0rem 1rem;" width="200px" height="170px"
                         src="assets/images/logo-light.png" alt=""></a></div>
                     </div>
                     <div class="right-column d-flex align-items-center">
@@ -153,7 +155,7 @@
         <div class="close-btn"><span class="fal fa-times"></span></div>
 
         <nav class="menu-box">
-            <div class="nav-logo"><a href="index.php"><img style="padding: 0rem 1rem;" width="130px" height="70px"
+            <div class="nav-logo"><a href="index.php"><img style="padding: 0rem 1rem;" width="200px" height="170px"
             src="assets/images/logo-light.png" alt=""></a>
             </div>
             <div class="menu-outer">

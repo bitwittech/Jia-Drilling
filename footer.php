@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="about-widget mb_40">
-                        <div class="logo mb_30"><img  width="130px" height="70px"
+                        <div class="logo mb_30"><img  width="200px" height="170px"
                         src="assets/images/logo-light.png" alt=""></div>
                         <p class="c_light2 fs_15 fw_medium">Jia International is a multidisciplinary technology, engineering, manufacturing and trading company. Independent services are offered to clients worldwide based on the knowledge and experience of highly skilled and dedicated professionals. Jia International is one of the fastest-growing companies of India.
                         </p>
@@ -17,7 +17,8 @@
                         <ul class="list-none p-0 link-widget-1-list c_light2 fw_medium fs_16">
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About</a></li>
-                            <li><a href="services.php">Services</a></li>
+                            <li><a href="services.php">Blogs</a></li>
+                            <li><a href="accessories.php">Accessories</a></li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div>

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from azim.hostlin.com/buildnox/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Oct 2024 08:46:05 GMT -->
+<!-- Mirrored from azim.hostlin.com/buildnox/Blogs.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Oct 2024 08:46:05 GMT -->
 
 <head>
     <meta charset="utf-8">
-    <title>Jia Drilling - Services</title>
+    <title>Jia Drilling - Blogs</title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -53,7 +53,7 @@
                 <div class="content">
                     <div class="about-widget-two sidebar-widget">
                         <h3>Finding The Best <br>
-                            Drilling Services </h3>
+                            Drilling Blogs </h3>
                         <div class="text">We denounce with righteous indignation and dislike men who we are to beguiled
                             demoralized by the charms of pleasures that moment, so we blinded desires, that they
                             indignations.</div>
@@ -157,25 +157,25 @@
             <div class="auto-container">
                 <div class="p_relative text-center">
                     <h1 class="c_light mb_10 fw_black fs_65 wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
-                        Services</h1>
+                        Blogs</h1>
                     <ul class="list-none fs_18 d-flex justify-content-center c_light wow fadeInLeft" data-wow-delay=".5s"
                         data-wow-duration="1.5s">
                         <li><a href="index.html">Home</a></li>
                         <li class="ml_10 mr_10">/</li>
-                        <li>Services</li>
+                        <li>Blogs</li>
                     </ul>
                 </div>
             </div>
         </section>
 
-        <!-- services -->
+        <!-- Blogs -->
         <section class="bg_gray2 pt_120 pb_90">        
         <div class="auto-container">
             <div class="row">
                 <div class="col-lg-12 mb-2">
                     <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>What we do</h6>
-                    <h2 class="fs_45 fw_black mb_30">Our Featured Services</h2>
-                    <!-- <div class="link-btn"><a href="services.html" class="c_primary td_underline ff_sec fw_bold tt_u fs_14 ls_1">view all services </a></div> -->
+                    <h2 class="fs_45 fw_black mb_30">Our Featured Blogs</h2>
+                    <!-- <div class="link-btn"><a href="Blogs.html" class="c_primary td_underline ff_sec fw_bold tt_u fs_14 ls_1">view all Blogs </a></div> -->
                 </div>
                 <div class="col-lg-4 ">
                     <div class="wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
@@ -285,6 +285,6 @@
 
 </body>
 
-<!-- Mirrored from azim.hostlin.com/buildnox/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Oct 2024 08:46:09 GMT -->
+<!-- Mirrored from azim.hostlin.com/buildnox/Blogs.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Oct 2024 08:46:09 GMT -->
 
 </html>

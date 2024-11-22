@@ -4320,6 +4320,7 @@ header.main-header.header-style-nine button.theme-btn.search-toggler {
     top: 50px;
     bottom: 0;
     right: 0;
+	z-index: -1;
     background: var(--theme-color);
     border-radius: 6px;
     transition: .7s ease;

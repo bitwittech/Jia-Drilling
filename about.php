@@ -175,7 +175,7 @@
                     <div class="col-lg-5">
                         <div class="p_relative">
                             <div class="image p_relative d_iblock" data-parallax='{"y": -20}'>
-                                <img src="assets/images/resource/image-17.jpeg" alt="">
+                                <img src="assets/images/resource/image-17.jpg" alt="">
                             </div>
                         </div>
                     </div>
