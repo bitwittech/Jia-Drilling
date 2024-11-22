@@ -25,7 +25,7 @@
                 </div>
                 <div class="col-lg-2 col-md-6">
                     <div class="link-widget-1 mb_40">
-                        <h4 class="fs_22 fw_medium mb_20 c_light fs_17">Services</h4>
+                        <h4 class="fs_22 fw_medium mb_20 c_light fs_17">Blogs</h4>
                         <ul class="list-none p-0 link-widget-1-list c_light2 fw_medium fs_16">
                             <li><a href="dtg-drilling-method.php">DTH Drilling Rigs</a></li>
                             <li><a href="about-diamond-core-drilling.php">Diamond Core Drilling Rigs</a></li>
