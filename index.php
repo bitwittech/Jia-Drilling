@@ -596,7 +596,7 @@
 
                                     <div class="form-group col-md-12">
                                         <textarea name="form_message" class="form-control"
-                                            placeholder="Massage"></textarea>
+                                            placeholder="Message"></textarea>
                                     </div>
                                     <div class="form-group col-md-12">
                                         <input id="form_botcheck" name="form_botcheck" class="form-control"

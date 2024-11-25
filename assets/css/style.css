@@ -4647,6 +4647,10 @@ background-color: #222;
     padding-top: 5px;
 }
 
+.wow-white{
+	background: white;
+}
+
 .form-alt3 form textarea {
 	height: 160px;
 }

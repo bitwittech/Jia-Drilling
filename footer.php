@@ -17,6 +17,7 @@
                         <ul class="list-none p-0 link-widget-1-list c_light32 fw_medium fs_16">
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About</a></li>
+                            <li><a href="products.php">Products</a></li>
                             <li><a href="accessories.php">Accessories</a></li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>

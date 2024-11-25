@@ -297,7 +297,7 @@
                     </div>
                     <div class="col-lg-5 wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="feature-image-1">
-                            <img src="assets/images/resource/History.jpeg" alt="">
+                            <img src="assets/images/resource/History.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -312,12 +312,12 @@
                             <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                     class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Our Strategies </h6>
                             <h2 class="fw_black fs_45 mb_15">Our Strategies</h2>
-                            <div class="mb_15">
+                            <div class="mb_15 fs_15">
 
                                 <h6 class="mb_5">
                                     Market Leadership
                                 </h6>
-                                <ul style="">
+                                <ul style="list-style : disc !important">
                                     <li>Firm and committed leadership in each of the sales markets globally.
                                     </li>
                                     <li>Attentiveness to core expertise and core technology.</li>
@@ -325,12 +325,12 @@
                                         performance.</li>
                                 </ul>
                             </div>
-                            <div class="mb_15">
+                            <div class="mb_15 fs_15">
                                 <h6 class="mb_5">
                                     Technology Leadership
 
                                 </h6>
-                                <ul>
+                                <ul style="list-style : disc !important">
                                     <li>Surpass customer expectation with best-in-class products and solutions. Dominant
                                         deep expertise, innovative technology, and disciplined execution with adequate
                                         and
@@ -346,7 +346,7 @@
                                     Vision 2024
 
                                 </h6>
-                                <ul>
+                                <ul style="list-style : disc !important">
                                     <li>We should be known as the leader in all markets we serve.
 
                                     </li>
@@ -372,7 +372,7 @@
                     </div>
                     <div class="col-lg-5 wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="feature-image-1">
-                            <img src="assets/images/resource/Strategies.jpeg" alt="">
+                            <img src="assets/images/resource/Strategies.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -541,7 +541,7 @@
                     </div>
                     <div class="col-lg-5 wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="feature-image-1">
-                            <img src="assets/images/resource/Innovations.jpeg" alt="">
+                            <img src="assets/images/resource/Innovation.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -555,7 +555,7 @@
                     <div class="col-lg-5">
                         <div class="p_relative">
                             <div class="image p_relative d_iblock" data-parallax='{"y": -20}'>
-                                <img src="assets/images/resource/Quality Control.jpeg" alt="">
+                                <img src="assets/images/resource/Quality Policy.jpg" alt="">
                             </div>
                         </div>
                     </div>
