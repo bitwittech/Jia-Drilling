@@ -214,7 +214,7 @@
                                 <h3 class="fs_35 mb_20">Our Address</h3>
                                 <div class="d-flex align-items-start pb_30">
                                     <img class="mr_20 mt_10" src="assets/images/icons/icon-map.png" alt="">
-                                    <p class="mb_0 lh_30"><span class="fs_20 fw_bold c_dark">Address :</span> <br>Opp.
+                                    <p class="mb_0 lh_30"><span class="fs_18 fw_bold c_dark">Address :</span> <br>Opp.
                                         Kalol GIDC,
                                         National Highway, Village - Saij
                                         Dist. Gandhinagar - 382725.
@@ -223,18 +223,18 @@
                                 <div class="d-flex align-items-start pb_30">
                                     <img class="mr_20 mt_10" src="assets/images/icons/icon-mail.png" alt="">
                                     <p class="mb_0 lh_30"><span class="fs_20 fw_bold c_dark">Phone :</span> <br>
-                                    <a class="fs_22 fw_medium"
+                                    <a class="fs_18 fw_medium " style="color:#494949" 
                                     href="tel:9601284980">+91-96012 84980</a>
-                                    <a class="fs_22 fw_medium"
+                                    <a class="fs_18 fw_medium" style="color:#494949"
                                     href="tel:9428118030"> +91-94281 18030</a></p>
                                 </p>
                                 </div>
                                 <div class="d-flex align-items-start pb_30">
                                     <img class="mr_20 mt_10" src="assets/images/icons/icon-phone.png" alt="">
                                     <p class="mb_0 fs_20 lh_30"><span class="fs_20 fw_bold c_dark">Email :</span> <br>
-                                    <a class="fs_20"
-                                href="mailto:contact@buildnox.com">jiaindia@yahoo.com</a>
-                            <a class="fs_20" href="mailto:contact@buildnox.com">jiaindia@hotmail.com</a>
+                                    <a class="fs_18"
+                                href="mailto:contact@buildnox.com" style="color:#494949">jiaindia@yahoo.com</a>
+                            <a class="fs_18" href="mailto:contact@buildnox.com" style="color:#494949">jiaindia@hotmail.com</a>
                                 </div>
                             </div>
                         </div>

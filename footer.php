@@ -7,17 +7,16 @@
                     <div class="about-widget mb_40">
                         <div class="logo mb_30"><img  width="200px" height="170px"
                         src="assets/images/logo-light.png" alt=""></div>
-                        <p class="c_light2 fs_15 fw_medium">Jia International is a multidisciplinary technology, engineering, manufacturing and trading company. Independent services are offered to clients worldwide based on the knowledge and experience of highly skilled and dedicated professionals. Jia International is one of the fastest-growing companies of India.
+                        <p class="c_light3 fs_15 fw_medium">Jia International is a multidisciplinary technology, engineering, manufacturing and trading company. Independent services are offered to clients worldwide based on the knowledge and experience of highly skilled and dedicated professionals. Jia International is one of the fastest-growing companies of India.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6">
                     <div class="link-widget-1 mb_40">
-                        <h4 class="fs_22 fw_medium mb_20 c_light fs_17">Useful Links</h4>
-                        <ul class="list-none p-0 link-widget-1-list c_light2 fw_medium fs_16">
+                        <h4 class="fs_22 fw_medium mb_20 c_light3 fs_17">Useful Links</h4>
+                        <ul class="list-none p-0 link-widget-1-list c_light32 fw_medium fs_16">
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About</a></li>
-                            <li><a href="services.php">Blogs</a></li>
                             <li><a href="accessories.php">Accessories</a></li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
@@ -25,19 +24,26 @@
                 </div>
                 <div class="col-lg-2 col-md-6">
                     <div class="link-widget-1 mb_40">
-                        <h4 class="fs_22 fw_medium mb_20 c_light fs_17">Blogs</h4>
-                        <ul class="list-none p-0 link-widget-1-list c_light2 fw_medium fs_16">
+                        <h4 class="fs_22 fw_medium mb_20 c_light3 fs_17">Blogs</h4>
+                        <ul class="list-none p-0 link-widget-1-list c_light3 fw_medium fs_16">
+                        <ul class="list-none p-0 link-widget-1-list  fw_medium fs_16">
                             <li><a href="dtg-drilling-method.php">DTH Drilling Rigs</a></li>
                             <li><a href="about-diamond-core-drilling.php">Diamond Core Drilling Rigs</a></li>
                             <li><a href="budirect-mud-rotary-drilling.php">Direct Mud Rotary Drilling Rigs</a></li>
+                        </ul>    
+                        <!-- <li><a href="construction-&-augar-pilling.php">Construction & Augar Piling</a></li>
+                            <li><a href="geo-exploration.php">Geo Exploration</a></li>
+                            <li><a href="minning.php">Mining</a></li>
+                            <li><a href="soil-testing.php">Soil Testing</a></li>
+                            <li><a href="water-well.php">Water Well</a></li> -->
                         </ul>
                     </div>
                 </div>
 
                 <!-- <div class="col-lg-3 col-md-6">
                     <div class="link-widget-1 mb_40">
-                        <h4 class="fs_22 fw_medium mb_20 c_light fs_17">Products</h4>
-                        <ul class="link-widget-1-list c_light2 fw_medium">
+                        <h4 class="fs_22 fw_medium mb_20 c_light3 fs_17">Products</h4>
+                        <ul class="link-widget-1-list c_light32 fw_medium">
                             <li><a href="javascript:void(0);">JST-10 Tractor Mounted SSHDR</a></li>
                             <li><a href="javascript:void(0);">JSP-10 Portable SSHDR</a></li>
                             <li><a href="javascript:void(0);">SSHDR</a></li>
@@ -51,8 +57,8 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="link-widget-1 mb_40">
-                        <h4 class="fs_22 fw_medium mb_20 c_light fs_17">Products</h4>
-                        <ul class="link-widget-1-list c_light2 fw_medium">
+                        <h4 class="fs_22 fw_medium mb_20 c_light3 fs_17">Products</h4>
+                        <ul class="link-widget-1-list c_light32 fw_medium">
                             <li><a href="javascript:void(0);">JCT-200 TRACTOR
 
                                 </a></li>
@@ -65,26 +71,26 @@
                         </ul>
                     </div>
                 </div> -->
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-8">
                     <div class="newsletter-widget-1 mb_40">
-                        <h4 class="fs_22 fw_medium mb_20 c_light">Contact</h4>
+                        <h4 class="fs_22 fw_medium mb_10 c_light3">Contact</h4>
                         <div class=" d-flex align-items-start pt_5 ">
                             <img class="mr_20 mt_10" width="20px" src="assets/images/icons/icon-map.png" alt="">
-                            <p class="c_light mb_0 lh_30 fs_16">Opp. Kalol GIDC,
+                            <p style="color:black" class=" mb_0 lh_30 fs_16">Opp. Kalol GIDC,
                                 National Highway, Village - Saij
                                 Dist. Gandhinagar - 382725.
                                 Gujarat, India</p>
                         </div>
                         <div class=" d-flex align-items-start  pt_10 ">
                             <img class="mr_20 mt_10" src="assets/images/icons/icon-mail.png" width="20px" alt="">
-                            <p class="c_light mb_0 lh_30 fs_16">Email us : <br> <a class="fs_16"
+                            <p style="color:black" class=" mb_0 lh_30 fs_16">Email us : <br> <a class="fs_16"
                                     href="mailto:contact@buildnox.com">jiaindia@yahoo.com</a>
                                 <a class="fs_16" href="mailto:contact@buildnox.com">jiaindia@hotmail.com</a>
                             </p>
                         </div>
                         <div class=" d-flex align-items-start  pt_10 ">
                         <img class="mr_20 fs_16 mt_10" src="assets/images/icons/icon-phone.png" width="20px" alt="">
-                        <p class="c_light mb_0 fs_16 lh_30">Call us on : <br> <a class="fs_16 fw_medium"
+                        <p style="color:black" class=" mb_0 fs_16 lh_30">Call us on : <br> <a class="fs_16 fw_medium"
                                 href="tel:18004567890">+91-96012 84980, +91-94281 18030</a></p>
                     </div>
                     </div>
@@ -94,10 +100,10 @@
         <div class="auto-container">
             <div class="footer-border"></div>
             <div class="d-flex justify-content-lg-between pt_20 pb_6">
-                <p class="c_light2 fs_17 mb_20 fw_medium">© Copyright <a href="javascript:void(0);">Jia Drilling</a>
+                <p class="c_light32 fs_17 mb_20 fw_medium">© Copyright <a href="javascript:void(0);">Jia Drilling</a>
                     2024 .
                     All right reserved. </p>
-                <p class="c_light2 fs_17 mb_20 fw_medium">Designed By Bharat Edge</p>
+                <p class="c_light32 fs_17 mb_20 fw_medium">Designed By Bharat Edge</p>
             </div>
         </div>
     </div>

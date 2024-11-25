@@ -10,7 +10,7 @@
     }
     .map-container {
       position: relative;
-      width: 1400px;
+      width: 1300px;
       max-height: 800px;
       margin: auto;
     }
@@ -23,7 +23,7 @@
   width: 10px;
   height: 10px;
   transition: all 500ms ease;
-  background-color: red;
+  background-color: #cc2127;
   border-radius: 50%;
   cursor: pointer;
   z-index: 1; /* Ensures markers are in the correct stacking order */
@@ -31,7 +31,7 @@
 
 .marker:hover {
   transform: scale(1.2);
-  background-color: blue;
+  background-color: #26276e;
   z-index: 2; /* Increases stacking order on hover */
 }
 

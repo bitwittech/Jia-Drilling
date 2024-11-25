@@ -115,8 +115,8 @@
                         </nav>
                     </div>
                     <div class="contact-info-box2 d-xl-flex align-items-center d-none ml_40 pl_30 pr_30 pt_20 pb_25">
-                        <img class="mr_20 mt_5" src="assets/images/icons/icon-phone4.png" alt="">
-                        <p class="c_light mb_0 fs_20 lh_20"> <a class="fs_20 fw_sbold" href="tel:18004567890">+91-94281
+                        <img class="mr_20 mt_5" width="30px" height="30px" src="assets/images/icons/call-icon.png" alt="">
+                        <p class="c_light mb_0 fs_18 lh_20"> <a class="fs_20 fw_bold" href="tel:9428118030">+91-94281
                                 18030</a></p>
                     </div>
                 </div>
@@ -140,9 +140,9 @@
 
                         <div
                             class="contact-info-box2 d-xl-flex align-items-center d-none ml_40 pl_30 pr_30 pt_20 pb_25">
-                            <img class="mr_20 mt_5" src="assets/images/icons/icon-phone4.png" alt="">
-                            <p class="c_light mb_0 fs_20 lh_20"> <a class="fs_20 fw_sbold"
-                                    href="tel:18004567890">+91-94281 18030</a></p>
+                            <img class="mr_20 mt_5" width="30px" height="30px" src="assets/images/icons/call-icon.png" alt="">
+                            <p class="c_light mb_0 fs_18 lh_20"> <a class="fs_20 fw_sbold"
+                                    href="tel:9428118030">+91-94281 18030</a></p>
                         </div>
                     </div>
                 </div>

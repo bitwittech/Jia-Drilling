@@ -206,7 +206,26 @@
                     <!-- Slide Item -->
                     <div class="swiper-slide banner-slide">
                         <div class="bnox_76 p_absolute l_0 l_xxl_220 t_110 r_0 b_0 bg_cover"
-                            style="background-image: url(assets/images/main-slider/new_banner.png);"></div>
+                            style="background-image: url(assets/images/main-slider/bg-1.png);"></div>
+                        <div class="auto-container">
+                            <div class="content-box p_inherit pt_330 pb_200">
+                                <div class="inner">
+                                    <h1 class="c_light mb_30 fw_black fs_70">Precision you Trust, Quality we Guarantee!
+                                    </h1>
+                                    <p class="mb_40 fs_22 c_light">Jia International is a multi-disciplinary technology,
+                                        engineering, manufacturing, and trading company. Independent services are
+                                        offered to clients worldwide based on the knowledge and experience of highly
+                                        skilled and dedicated professionals. Jia International is one of the
+                                        fastest-growing companies in India. </p>
+                                    <!-- <div class="link-box tt_u pr_font fs_14"><a href="appointment.html" class="btn-1 pt_18 pb_15 pl_30 pr_30 b_radius_5 ff_sec fw_bold tt_u fs_14 ls_1">Book Appointment <i class="flaticon-fast-forward"></i> <span></span></a></div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Slide Item -->
+                    <div class="swiper-slide banner-slide">
+                        <div class="bnox_76 p_absolute l_0 l_xxl_220 t_110 r_0 b_0 bg_cover"
+                            style="background-image: url(assets/images/main-slider/bg-2.png);"></div>
                         <div class="auto-container">
                             <div class="content-box p_inherit pt_330 pb_200">
                                 <div class="inner">
@@ -539,7 +558,7 @@
         </section>
 
         <div class="bg_gray2 pt_1 pb_1 brandName">
-            <h1 class="project-1-bottom-title text_stroke mt_100" data-parallax='{"x": -50}'>Jia Drilling Jia Drilling
+            <h1 class="project-1-bottom-title text_stroke mt_100" data-parallax='{"x": -50}'>Jia Drilling
             </h1>
         </div>
 

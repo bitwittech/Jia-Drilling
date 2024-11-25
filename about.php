@@ -399,7 +399,7 @@
                             <h2 class="fs_45 fw_black mb_20">Sustainability Method</h2>
 
                             <div class="mb_15 " style="padding-left : 5px">
-                                <p class="fs_20 fw-bolder mb_5">
+                                <p class="fs_20 fw-bolder mb_5 pHeading">
                                     Consequential Innovation At Jia
 
                                 </p>
@@ -409,7 +409,7 @@
                             </div>
 
                             <div class="mb_15 " style="padding-left : 5px">
-                                <p class="fs_20 fw-bolder mb_5">
+                                <p class="fs_20 fw-bolder mb_5 pHeading">
                                     Excellence
                                 </p>
                                 <p class="fs_15 mb_10">At Jia, we believe in excellence-in our products, our people, and
@@ -433,7 +433,7 @@
                                 <p class="fs_15 mb_10">
                                     The current programme is mainly motivated by Eco-view. The four pillars of this
                                     program are:
-                                <ul>
+                                <ul style="list-style:disc !important;">
                                     <li>Green Innovation
                                     </li>
                                     <li>
@@ -572,10 +572,10 @@
                             <div class="mb_15 " style="padding-left : 5px">
 
 
-                                <p class="fs_20 mb_10">
+                                <p class="fs_20 mb_10 pHeading" style="font-weight : bold">
                                     To be always customer focused organization by :
 
-                                <ul>
+                                <ul style="list-style:disc !important;">
                                     <li>Understanding customer needs and providing optimum solutions.
 
                                     </li>
