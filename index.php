@@ -435,9 +435,6 @@
         <section class="pt_120 pb_120 bg_dark">
             <div class="auto-container">
                 <div class="text-center">
-                    <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
-                            class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>OUr recent work <span
-                            class="w_30 h_2 theme-bg ml_10 d_iblock v_middle"></span></h6>
                     <h2 class="c_light fs_45 fw_black mb_60">Our Featured Products</h2>
                 </div>
             </div>
@@ -448,15 +445,15 @@
                         <div class="swiper-slide">
                             <div class="project-1-block">
                                 <div class="project-1-image">
-                                    <img src="assets/newImages/ourProducts/DR-300.png" alt="">
+                                    <img src="assets/newImages/ourProducts/JBR-20 Mining.png" alt="">
                                     <div class="project-1-overlay">
-                                        <a href="assets/newImages/ourProducts/DR-300.png" class="project-1-icon"
+                                        <a href="assets/newImages/ourProducts/JBR-20 Mining.png" class="project-1-icon"
                                             data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
-                                        <a href="product-8.php"><i class="flaticon-link"></i></a>
+                                        <a href="product-4.php"><i class="flaticon-link"></i></a>
                                     </div>
                                     <div class="project-1-content">
-                                        <p class="project-1-cat">JDMR-300</p>
-                                        <h4 class="project-1-title">Direct Rotary Drilling Rig</h4>
+                                        <p class="project-1-cat">JBR-20</p>
+                                        <h4 class="project-1-title">Mining</h4>
                                     </div>
                                 </div>
                             </div>
@@ -473,7 +470,7 @@
                                     </div>
                                     <div class="project-1-content">
                                         <p class="project-1-cat">JAT-12</p>
-                                        <h4 class="project-1-title">Drilling Pipeline Drilling</h4>
+                                        <h4 class="project-1-title">Construction & Augar Piling</h4>
                                     </div>
                                 </div>
                             </div>
@@ -482,32 +479,15 @@
                         <div class="swiper-slide">
                             <div class="project-1-block">
                                 <div class="project-1-image">
-                                    <img src="assets/newImages/ourProducts/JBT-10.png" alt="">
+                                    <img src="assets/newImages/ourProducts/JSC-150 Soil Testing.png" alt="">
                                     <div class="project-1-overlay">
-                                        <a href="assets/newImages/ourProducts/JBT-10.png" class="project-1-icon"
-                                            data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
-                                        <a href="product-3.php"><i class="flaticon-link"></i></a>
-                                    </div>
-                                    <div class="project-1-content">
-                                        <p class="project-1-cat">JBT-10</p>
-                                        <h4 class="project-1-title">Blast Hole Drilling Rig</h4>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Slide Item -->
-                        <div class="swiper-slide">
-                            <div class="project-1-block">
-                                <div class="project-1-image">
-                                    <img src="assets/newImages/ourProducts/JWC-10.jpg" alt="">
-                                    <div class="project-1-overlay">
-                                        <a href="assets/newImages/ourProducts/JWC-10.jpg" class="project-1-icon"
+                                        <a href="assets/newImages/ourProducts/JSC-150 Soil Testing.png" class="project-1-icon"
                                             data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
                                         <a href="product-15.php"><i class="flaticon-link"></i></a>
                                     </div>
                                     <div class="project-1-content">
-                                        <p class="project-1-cat">JWC-10</p>
-                                        <h4 class="project-1-title">DTHR</h4>
+                                        <p class="project-1-cat">JSC-150</p>
+                                        <h4 class="project-1-title">Soil Testing</h4>
                                     </div>
                                 </div>
                             </div>
@@ -516,32 +496,31 @@
                         <div class="swiper-slide">
                             <div class="project-1-block">
                                 <div class="project-1-image">
-                                    <img src="assets/newImages/ourProducts/JWC-25.jpg" alt="">
+                                    <img src="assets/newImages/ourProducts/JWT-10 Water Well.png" alt="">
                                     <div class="project-1-overlay">
-                                        <a href="assets/newImages/ourProducts/JWC-25.jpg" class="project-1-icon"
+                                        <a href="assets/newImages/ourProducts/JWT-10 Water Well.png" class="project-1-icon"
                                             data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
-                                        <a href="product-19.php"><i class="flaticon-link"></i></a>
+                                        <a href="product-13.php"><i class="flaticon-link"></i></a>
                                     </div>
                                     <div class="project-1-content">
-                                        <p class="project-1-cat">JWC-25</p>
-                                        <h4 class="project-1-title">RC Drilling</h4>
+                                        <p class="project-1-cat">JWT-10</p>
+                                        <h4 class="project-1-title">Water Well</h4>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- Slide Item -->
                         <div class="swiper-slide">
                             <div class="project-1-block">
                                 <div class="project-1-image">
-                                    <img src="assets/newImages/ourProducts/JCC-300-2.png" alt="">
+                                    <img src="assets/newImages/ourProducts/JCC-300 Construction & Augar Piling.png" alt="">
                                     <div class="project-1-overlay">
-                                        <a href="assets/newImages/ourProducts/JCC-300-2.png" class="project-1-icon"
+                                        <a href="assets/newImages/ourProducts/JCC-300 Construction & Augar Piling.png" class="project-1-icon"
                                             data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
                                         <a href="product-21.php"><i class="flaticon-link"></i></a>
                                     </div>
                                     <div class="project-1-content">
                                         <p class="project-1-cat">JCC-300</p>
-                                        <h4 class="project-1-title">Exploration Drilling Rig</h4>
+                                        <h4 class="project-1-title">Construction & Augar Piling</h4>
                                     </div>
                                 </div>
                             </div>
