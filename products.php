@@ -121,7 +121,7 @@
                                     <br>
                                     <br>
                                     <h4 class="fs_18 fw_normal c_dark4">Mining</span></h4>
-                                    <div class="link mb_75"><a href="minning.php"
+                                    <div class="link mb_75"><a href="mining.php"
                                             class="ff_sec fw_bold tt_u fs_14 ls_1 c_light_dark">View more <i
                                                 class="p_relative t_3 c_primary ml_10 fs_20 v_middle flaticon-right-arrow-2"></i></a>
                                     </div>

@@ -20,6 +20,7 @@
         padding: 10px;
         width: 100%;
         height: 100vh;
+        max-height : 700px;
         top: 0;
         background-size: 100% 100%;
         box-sizing: border-box;
@@ -58,27 +59,35 @@
         background-repeat: no-repeat;
     }
 
-    .part h1{
+    .part h1 {
         color: white;
-         z-index: 2;
-         text-transform : uppercase;
-        font-size: 60px !important;
+        z-index: 2;
+        text-align: center;
+        text-transform: uppercase;
+        font-size : 3rem;
     }
+
+    @media screen and (width <= 600px) {
+    .part h1 {
+        font-size : 2rem;
+    }
+    }
+
     </style>
 </head>
 
 <body>
     <section class="part">
-        <h1 >Adaptable Organizational Model</h1>
+        <h1>Adaptable Organizational Model</h1>
     </section>
     <section class="part">
-        <h1 >Commitment to Sustainability</h1>
+        <h1>Commitment to Sustainability</h1>
     </section>
     <section class="part">
-        <h1 >Global Reach and Expansion</h1>
+        <h1>Global Reach and Expansion</h1>
     </section>
     <section class="part">
-        <h1 >Customer-Centric Approach</h1>
+        <h1>Customer-Centric Approach</h1>
     </section>
 </body>
 

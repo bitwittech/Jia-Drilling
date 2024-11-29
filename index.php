@@ -319,8 +319,10 @@
                         <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                 class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>What we do</h6>
                         <h2 class="fs_45 fw_black mb_20">Our Featured Products</h2>
+                        <p>JIA Drilling Rigs are engineered to perform in the harshest drilling conditions. With a strong focus on innovation, we ensure that our rigs consistently provide exceptional performance and efficiency. Understanding that each drilling project is unique, we offer a broad range of rigs tailored to meet the specific demands of various terrains, geological formations, and specialized drilling requirements.</p>
+                        
                         <!-- <div class="link-btn"><a href="services.html" class="c_primary td_underline ff_sec fw_bold tt_u fs_14 ls_1">view all services </a></div> -->
-                         <p>JIA Drilling Rigs are engineered to perform in the harshest drilling conditions. With a strong focus on innovation, we ensure that our rigs consistently provide exceptional performance and efficiency. Understanding that each drilling project is unique, we offer a broad range of rigs tailored to meet the specific demands of various terrains, geological formations, and specialized drilling requirements.</p>
+                       
                     </div>
                     <div class="col-lg-4 ">
                         <div class="wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
@@ -371,7 +373,7 @@
                                     <br>
                                     <br>
                                     <h4 class="fs_18 fw_normal c_dark4">Mining</span></h4>
-                                    <div class="link mb_75"><a href="minning.php"
+                                    <div class="link mb_75"><a href="mining.php"
                                             class="ff_sec fw_bold tt_u fs_14 ls_1 c_light_dark">View more <i
                                                 class="p_relative t_3 c_primary ml_10 fs_20 v_middle flaticon-right-arrow-2"></i></a>
                                     </div>

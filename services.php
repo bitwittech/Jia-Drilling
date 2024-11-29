@@ -178,7 +178,7 @@
                     <!-- <div class="link-btn"><a href="Blogs.html" class="c_primary td_underline ff_sec fw_bold tt_u fs_14 ls_1">view all Blogs </a></div> -->
                 </div>
                 <div class="col-lg-4 ">
-                    <div class="wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
+                    <div class="wow wow-white fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                             <div>                            
                                 <i class="flaticon-renovation fs_65 c_primary mb_40 d_iblock"></i>
@@ -190,7 +190,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
+                    <div class="wow wow-white fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                             <div>                            
                                 <i class="flaticon-roof fs_65 c_primary mb_40 d_iblock"></i>
@@ -202,7 +202,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
+                    <div class="wow wow-white fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                             <div>                            
                                 <i class="flaticon-trowel fs_65 c_primary mb_40 d_iblock"></i>

@@ -5,7 +5,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title> Jia Drilling - JWT-15 TRACTOR MOUNTED DTHR WATER WELL DRILLING RIG</title>
+    <title> Jia Drilling - JSL-150 Truck Mounted Soil Testing Drilling Rig</title>
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -144,8 +144,7 @@
             </div>
         </div>
 
-        <section class="banner-1-section pt_240 pb_140 bg_cover overflow-hidden"
-            >
+        <section class="banner-1-section pt_240 pb_140 bg_cover overflow-hidden">
             <div class="line-grid-wrap">
                 <span class="line-grid-1"></span>
                 <span class="line-grid-2"></span>
@@ -153,18 +152,18 @@
                 <span class="line-grid-4"></span>
                 <span class="line-grid-5"></span>
             </div>
-            
+
             <div class="auto-container">
                 <div class="p_relative text-center">
                     <h1 class="c_light mb_10 fw_black fs_45 wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
-                        JWT-15 TRACTOR MOUNTED DTHR WATER WELL DRILLING RIG</h1>
+                        JSL-150 Truck Mounted Soil Testing Drilling Rig</h1>
                     <ul class="list-none fs_18 d-flex justify-content-center c_light wow fadeInLeft"
                         data-wow-delay=".5s" data-wow-duration="1.5s">
                         <li><a href="index.html">Home</a></li>
                         <li class="ml_10 mr_10">/</li>
                         <li>Products</li>
                         <li class="ml_10 mr_10">/</li>
-                        <li>JWT-15 TRACTOR MOUNTED DTHR WATER WELL DRILLING RIG</li>
+                        <li>JSL-150 Truck Mounted Soil Testing Drilling Rig</li>
                     </ul>
                 </div>
             </div>
@@ -175,15 +174,13 @@
             <div class="auto-container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="mb_30"><img src="assets/newImages/water well/JWT-15.jpg" alt=""></div>
+                        <div class="mb_30"><img src="./assets/newImages/Soil Testing/JSC-150.png" alt=""></div>
                     </div>
                     <div class="col-lg-6 ps-lg-5">
                         <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                 class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>product details</h6>
-                        <h2 class="fw_black fs_30 mb_20">JWT-15 TRACTOR MOUNTED DTHR WATER WELL DRILLING RIG</h2>
-                        <p class="mb_15 fs_16">The JWT15 is Tractor Mounted DTHR Water Well Drilling Rig especially designed for water well drilling up to 450 feet (137 Meters) for a drill diameter of 6 ½" (165 mm). It is also capable of Rotary drilling with 4 700 Kg pull up force and 0 − 100 RPM or may be used with down the hole drills of 6 ½" when equipped with a high-pressure air compressor. The same rig can also be utilized for exploration and micro-piling work.
-
-
+                        <h2 class="fw_black fs_30 mb_20">JSL-150 Truck Mounted Soil Testing Drilling Rig</h2>
+                        <p class="mb_15 fs_16">JSL-150 is designed to explore unparalleled efficiency with our versatile geotechnical drill rig, designed for both trailer and truck mounting. Engineered for seamless operation, its automatic hammer simplifies the toughest tasks, while the robust hydraulic winch, boasting a powerful 7500 kg pull, effortlessly raises the hammer and sampling string. Built for reliability and ease, this rig is your ultimate partner for precision geotechnical sampling.
                         </p>
 
                     </div>
@@ -191,103 +188,93 @@
             </div>
         </section>
 
-        <div class="container mt-4">
-  <div class="table-responsive">
-    <table class="table table-striped table-bordered">
-      <thead class="thead-dark">
-        <tr>
-          <th colspan="2" class="text-center" style="font-size:16px;">
-            TECHNICAL SPECIFICATIONS - JWC-10 TROLLEY MOUNTED DTHR WATER WELL DRILLING RIG
-          </th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>DRILLING DEPTH</td>
-          <td>Maximum 6½" Bore Holes, 100 Meter (330 Foot) with 2½" Drill Rods. Odex Dia − 5", Depth − 300 foot</td>
-        </tr>
-        <tr>
-          <td>PRIME MOVER</td>
-          <td>Rig hydraulic system powered from the deck engine − 75 Hp</td>
-        </tr>
-        <tr>
-          <td>WORK METHOD</td>
-          <td>DTH and Rotary Mud Drilling</td>
-        </tr>
-        <tr>
-          <td>MAST</td>
-          <td>5" Channel Structure Mast, Max Capacity − 8 Tons, Height − 3.65 Meter (12 Foot), Rod Handling − 60", Centralized Opening − 7"</td>
-        </tr>
-        <tr>
-          <td>PULL UP SPEED</td>
-          <td>37 Meter / Min (122 Foot/Min)</td>
-        </tr>
-        <tr>
-          <td>PULL UP FORCE</td>
-          <td>4 700 Kg / 10 360 lbs</td>
-        </tr>
-        <tr>
-          <td>PULL DOWN SPEED</td>
-          <td>50 Meter / Min (164 Foot/Min)</td>
-        </tr>
-        <tr>
-          <td>PULL DOWN FORCE</td>
-          <td>2 600 Kg / 5 732 lbs</td>
-        </tr>
-        <tr>
-          <td>HYDRAULIC SYSTEM</td>
-          <td>210 Kg/cm² (3 000 psi)<br>Oil Tank − 300 Liters, Oil Filters − SC²-75 − 02 no.</td>
-        </tr>
-        <tr>
-          <td>REEVING RATIO</td>
-          <td>1:3</td>
-        </tr>
-        <tr>
-          <td>ROTARY HEAD</td>
-          <td>Max Torque 303 Kg-Meter (26 400 lbs-inch), OMT-315 Orbital Motor</td>
-        </tr>
-        <tr>
-          <td>ROTARY HEAD SPEED</td>
-          <td>0 to 100 rpm</td>
-        </tr>
-        <tr>
-          <td>WATER INJECTION PUMP</td>
-          <td>36 LPM, 40 Kg/cm², driven by hydraulic motor</td>
-        </tr>
-        <tr>
-          <td>ADDITIONAL FEATURES</td>
-          <td>Night Lights, Tool Box</td>
-        </tr>
-        <tr>
-          <td>SUITABLE COMPRESSOR</td>
-          <td>450 CFM/150 psi, 450 CFM/175 psi, 600 CFM/200 psi</td>
-        </tr>
-        <tr>
-          <td>AIR LINE LUBRICATOR</td>
-          <td>Standard − 3 Liters</td>
-        </tr>
-        <tr>
-          <td>LEVELLING JACK</td>
-          <td>Four Hydraulic Leveling Jacks with separate levers</td>
-        </tr>
-        <tr>
-          <td>BREAKOUT WRENCH</td>
-          <td>Hydraulic operated for fast rod joint release</td>
-        </tr>
-        <tr>
-          <td>OPTIONAL ATTACHMENTS</td>
-          <td>
-            <ul>
-              <li>Welding Machine</li>
-              <li>Auxiliary Winch − 1 Ton</li>
-              <li>Single Rod Changer</li>
-              <li>Centrifugal Mud Pump − 3" x 3"</li>
-            </ul>
-          </td>
-        </tr>
-      </tbody>
+
+        <div class="container">
+    <table summary="Summary Here" class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th colspan="2" style="font-size:16px; text-align: center;">TECHNICAL SPECIFICATIONS - JSL-150 TRUCK MOUNTED DRILLING RIG FOR SOIL TESTING</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>DRILLING DEPTH</td>
+                <td>Maximum Depth: 150 m<br>Hole Diameter: 4” - 6” inch</td>
+            </tr>
+            <tr>
+                <td>PRIME MOVER</td>
+                <td>System is powered from 75 Hp TATA Engine</td>
+            </tr>
+            <tr>
+                <td>CHASSIS</td>
+                <td>Heavy 5” Channel structure</td>
+            </tr>
+            <tr>
+                <td>MAST</td>
+                <td>Mast Height – 4.20 with 3 Meter Rod Handling Capacity</td>
+            </tr>
+            <tr>
+                <td>MOUNTING</td>
+                <td>Truck Mount</td>
+            </tr>
+            <tr>
+                <td>PULL UP SPEED</td>
+                <td>15 Meter / Min</td>
+            </tr>
+            <tr>
+                <td>PULL DOWN SPEED</td>
+                <td>22 Meter / Min</td>
+            </tr>
+            <tr>
+                <td>FORCE</td>
+                <td>Pull up: 7500 kg / 3000 psi<br>Pull down: 5500 Kg</td>
+            </tr>
+            <tr>
+                <td>TRANSMISSION</td>
+                <td>5-speed Gear & Vertical gearbox</td>
+            </tr>
+            <tr>
+                <td>HYDRAULIC SYSTEM</td>
+                <td>(3000 psi)<br>Oil Tank – 120 Liters<br>Oil Filters - SC²-50 – 02 no.<br>Fixed Displacement Oil Pump</td>
+            </tr>
+            <tr>
+                <td>FEED SYSTEM</td>
+                <td>Hydraulic Cylinder with Reeving Ratio 1:2</td>
+            </tr>
+            <tr>
+                <td>ROTATION</td>
+                <td>Through Gearbox<br>Max RPM: 400<br>Max Torque: 315 Nm</td>
+            </tr>
+            <tr>
+                <td>DIESEL TANK</td>
+                <td>40 Liters</td>
+            </tr>
+            <tr>
+                <td>WATER PUMP</td>
+                <td>Centrifugal Type Mud Pump – 200 LPM</td>
+            </tr>
+            <tr>
+                <td>SPT/AUTO HAMMER</td>
+                <td>Impact energy: 60% - 75% with customized system</td>
+            </tr>
+            <tr>
+                <td>ADDITIONAL FEATURES</td>
+                <td>Night Lights, Tool Box</td>
+            </tr>
+            <tr>
+                <td>LEVELLING JACK</td>
+                <td>Four Hydraulic Levelling Jack for accurate levelling drill point having separate lever</td>
+            </tr>
+            <tr>
+                <td>CONTROL PANEL</td>
+                <td>All necessary control and monitoring valves and gauges are installed at control panel located nearer to drilling point for driller convenience.</td>
+            </tr>
+            <tr>
+                <td>OPERATOR PLATFORM</td>
+                <td>Detachable working platform for operator.</td>
+            </tr>
+        </tbody>
     </table>
-  </div>
 </div>
 
 

@@ -34,7 +34,7 @@
                         </ul>    
                         <!-- <li><a href="construction-&-augar-pilling.php">Construction & Augar Piling</a></li>
                             <li><a href="geo-exploration.php">Geo Exploration</a></li>
-                            <li><a href="minning.php">Mining</a></li>
+                            <li><a href="mining.php">Mining</a></li>
                             <li><a href="soil-testing.php">Soil Testing</a></li>
                             <li><a href="water-well.php">Water Well</a></li> -->
                         </ul>
