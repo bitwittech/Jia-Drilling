@@ -362,6 +362,39 @@ img {
   height: 100%;
   background: #1e1e1e;
 }
+
+/* General Styles */
+.loader-wrap {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff; /* White background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999999;
+}
+
+/* Rotating Bearing */
+.rotating-bearing {
+  width: 100px; /* Adjust size if needed */
+  height: 100px; /* Maintain aspect ratio */
+  animation: spin 1s linear infinite; /* Continuous rotation */
+}
+
+/* Keyframes for spinning */
+@keyframes spin {
+  0% {
+      transform: rotate(0deg);
+  }
+  100% {
+      transform: rotate(360deg);
+  }
+}
+
+
 .owl-nav {
   display: none;
 }
@@ -611,9 +644,6 @@ ul.header-top-1-contact-info li a:hover {
 .header-upper a {
   color: #001070 !important;
 }
-.dropdown ul > li > a {
-  color: white !important;
-}
 .main-header .header-upper {
   position: relative;
 }
@@ -753,7 +783,8 @@ ul.header-top-1-contact-info li a:hover {
   display: none;
   opacity: 0;
   visibility: hidden;
-  background-color: #0a1936;
+  background-color: #ffffff;
+  color : black !important;
   -webkit-transform: translateY(30px);
   -ms-transform: translateY(30px);
   transform: translateY(30px);
@@ -1447,14 +1478,14 @@ ul.header-top-1-contact-info li a:hover {
 }
 .mobile-menu .navigation li.dropdown .dropdown-btn {
   position: absolute;
-  right: 6px;
+  left: 6px;
   top: 6px;
-  width: 32px;
+  width: 100%;
   height: 32px;
   text-align: center;
   font-size: 16px;
   line-height: 32px;
-  color: #ffffff;
+  color: #ffffff00;
   background: rgba(255, 255, 255, 0.1);
   cursor: pointer;
   border-radius: 2px;
@@ -23335,4 +23366,28 @@ figure {
   .project-details-two {
     padding-bottom: 50px;
   }
+}
+
+
+/* Keyframes for slow zoom-in */
+@keyframes zoomInSlow {
+  0% {
+      transform: scale(1.4); /* Start at normal size */
+      opacity: 1; /* Fully visible */
+  }
+  100% {
+      transform: scale(1); /* Slight zoom-in */
+      opacity: 1; /* Maintain visibility */
+  }
+}
+
+/* Zoom-in animation class */
+.zoom-in-slow {
+  animation: zoomInSlow 5s ease-in-out; /* Duration: 2s */
+  animation-fill-mode: forwards; /* Keep the zoomed state after animation ends */
+}
+
+/* Optional: Reset to initial scale for non-active slides */
+.zoom-reset {
+  transform: scale(1); /* Reset scale */
 }

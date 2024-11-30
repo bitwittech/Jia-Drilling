@@ -19,14 +19,15 @@
                                     <li class="dropdown"><a href="#">Products</a>
                                         <ul>
                                             <li>
-                                                <a href="construction-&-augar-pilling.php">Construction & Augar Piling</a>
-                                                <a href="geo-exploration.php">Geo Exploration</a>
-                                                <a href="mining.php">Mining</a>
-                                                <a href="soil-testing.php">Soil Testing</a>
-                                                <a href="water-well.php">Water Well</a>
+                                                <a style="color:black !important" href="construction-&-augar-pilling.php">Construction & Augar Piling</a>
+                                                <a style="color:black !important" href="geo-exploration.php">Geo Exploration</a>
+                                                <a style="color:black !important" href="mining.php">Mining</a>
+                                                <a style="color:black !important" href="soil-testing.php">Soil Testing</a>
+                                                <a style="color:black !important" href="water-well.php">Water Well</a>
                                             </li>
                                         </ul>
                                     </li>
+                                    <br>
                                     <li><a href="accessories.php">Accessories</a>
                                         <!-- <ul>
                                         <li><a href="about-2.html">Company</a></li> 
@@ -96,19 +97,7 @@
             <div class="nav-logo"><a href="index.php"><img style="padding: 0rem 1rem;" width="200px" height="170px"
                         src="assets/images/logo-light.png" alt=""></a>
             </div>
-            <div class="menu-outer">
-                <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
-            </div>
-            <!--Social Links-->
-            <div class="social-links">
-                <ul class="clearfix">
-                    <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-                    <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
-                    <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
-                    <li><a href="#"><span class="fab fa-instagram"></span></a></li>
-                    <li><a href="#"><span class="fab fa-youtube"></span></a></li>
-                </ul>
-            </div>
+            <?php include "sideNav.php"?>
         </nav>
     </div>
 

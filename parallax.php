@@ -67,9 +67,20 @@
         font-size : 3rem;
     }
 
+    @media screen and (width <= 850px) {
+    .part h1 {
+        font-size : 2rem;
+    }
+    .part{
+        height : 70vh
+    }
+    }
     @media screen and (width <= 600px) {
     .part h1 {
         font-size : 2rem;
+    }
+    .part{
+        height : 40vh
     }
     }
 

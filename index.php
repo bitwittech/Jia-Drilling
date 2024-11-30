@@ -67,13 +67,10 @@
 
     <div class="page-wrapper">
         <div class="loader-wrap">
-            <div class="preloader">
-                <div class="preloader-close">Preloader Close</div>
-            </div>
-            <div class="layer layer-one"><span class="overlay"></span></div>
-            <div class="layer layer-two"><span class="overlay"></span></div>
-            <div class="layer layer-three"><span class="overlay"></span></div>
+            <img src="./assets/newImages/bearing.png" class="rotating-bearing" alt="Rotating Bearing">
         </div>
+
+
 
         <?php include 'header.php' ?>
 
@@ -203,7 +200,6 @@
                         </div>
                     </div>
                     <!-- Slide Item -->
-                    <!-- Slide Item -->
                     <div class="swiper-slide banner-slide">
                         <div class="bnox_76 p_absolute l_0 l_xxl_220 t_110 r_0 b_0 bg_cover"
                             style="background-image: url(assets/images/main-slider/bg-1.png);"></div>
@@ -241,7 +237,6 @@
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
             <div class="banner-slider-nav">
@@ -258,7 +253,7 @@
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                         <div class="ml_xxl__155 mr_xxl__18">
                             <div class="row row-20 align-items-center">
-                                <div class="col-12 " >
+                                <div class="col-12 ">
                                     <div class="image " style="float:right"><img
                                             src="assets/images/resource/Welcome.png" alt="">
                                     </div>
@@ -319,17 +314,22 @@
                         <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                                 class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>What we do</h6>
                         <h2 class="fs_45 fw_black mb_20">Our Featured Products</h2>
-                        <p>JIA Drilling Rigs are engineered to perform in the harshest drilling conditions. With a strong focus on innovation, we ensure that our rigs consistently provide exceptional performance and efficiency. Understanding that each drilling project is unique, we offer a broad range of rigs tailored to meet the specific demands of various terrains, geological formations, and specialized drilling requirements.</p>
-                        
+                        <p>JIA Drilling Rigs are engineered to perform in the harshest drilling conditions. With a
+                            strong focus on innovation, we ensure that our rigs consistently provide exceptional
+                            performance and efficiency. Understanding that each drilling project is unique, we offer a
+                            broad range of rigs tailored to meet the specific demands of various terrains, geological
+                            formations, and specialized drilling requirements.</p>
+
                         <!-- <div class="link-btn"><a href="services.html" class="c_primary td_underline ff_sec fw_bold tt_u fs_14 ls_1">view all services </a></div> -->
-                       
+
                     </div>
                     <div class="col-lg-4 ">
                         <div class="wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.5s">
                             <div
                                 class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                                 <div>
-                                    <img src="./assets/newImages/blogs/Construction & Augar Piling.jpg" alt="service_img" />
+                                    <img src="./assets/newImages/blogs/Construction & Augar Piling.jpg"
+                                        alt="service_img" />
                                     <br>
                                     <br>
                                     <h4 class="fs_18 fw_normal c_dark4">Construction & Augar Piling</span></h4>
@@ -349,7 +349,7 @@
                             <div
                                 class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                                 <div>
-                                <img src="./assets/newImages/blogs/Geo Exploration.png" alt="service_img" />
+                                    <img src="./assets/newImages/blogs/Geo Exploration.png" alt="service_img" />
                                     <br>
                                     <br>
                                     <h4 class="fs_18 fw_normal c_dark4">Geo Exploration</span></h4>
@@ -369,7 +369,7 @@
                             <div
                                 class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                                 <div>
-                                <img src="./assets/newImages/blogs/Mining.jpg" alt="service_img" />
+                                    <img src="./assets/newImages/blogs/Mining.jpg" alt="service_img" />
                                     <br>
                                     <br>
                                     <h4 class="fs_18 fw_normal c_dark4">Mining</span></h4>
@@ -389,7 +389,7 @@
                             <div
                                 class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                                 <div>
-                                <img src="./assets/newImages/blogs/Soil Testing.jpg" alt="service_img" />
+                                    <img src="./assets/newImages/blogs/Soil Testing.jpg" alt="service_img" />
                                     <br>
                                     <br>
                                     <h4 class="fs_18 fw_normal c_dark4">Soil Testing</span></h4>
@@ -409,7 +409,7 @@
                             <div
                                 class="icon_box_1 icon_box_1_with_hover alt mb_30 p_relative d-flex p_35 pt_40 b_radius_6">
                                 <div>
-                                <img src="./assets/newImages/blogs/Water Well.jpg" alt="service_img" />
+                                    <img src="./assets/newImages/blogs/Water Well.jpg" alt="service_img" />
                                     <br>
                                     <br>
                                     <h4 class="fs_18 fw_normal c_dark4">Water Well</span></h4>
@@ -483,12 +483,13 @@
                                 <div class="project-1-image">
                                     <img src="assets/newImages/ourProducts/JSC-150 Soil Testing.png" alt="">
                                     <div class="project-1-overlay">
-                                        <a href="assets/newImages/ourProducts/JSC-150 Soil Testing.png" class="project-1-icon"
-                                            data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
-                                        <a href="product-15.php"><i class="flaticon-link"></i></a>
+                                        <a href="assets/newImages/ourProducts/JSC-150 Soil Testing.png"
+                                            class="project-1-icon" data-fancybox="project-1"><i
+                                                class="flaticon-zoom"></i></a>
+                                        <a href="product-28.php"><i class="flaticon-link"></i></a>
                                     </div>
                                     <div class="project-1-content">
-                                        <p class="project-1-cat">JSC-150</p>
+                                        <p class="project-1-cat">JSL-150</p>
                                         <h4 class="project-1-title">Soil Testing</h4>
                                     </div>
                                 </div>
@@ -500,8 +501,9 @@
                                 <div class="project-1-image">
                                     <img src="assets/newImages/ourProducts/JWT-10 Water Well.png" alt="">
                                     <div class="project-1-overlay">
-                                        <a href="assets/newImages/ourProducts/JWT-10 Water Well.png" class="project-1-icon"
-                                            data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
+                                        <a href="assets/newImages/ourProducts/JWT-10 Water Well.png"
+                                            class="project-1-icon" data-fancybox="project-1"><i
+                                                class="flaticon-zoom"></i></a>
                                         <a href="product-13.php"><i class="flaticon-link"></i></a>
                                     </div>
                                     <div class="project-1-content">
@@ -514,10 +516,12 @@
                         <div class="swiper-slide">
                             <div class="project-1-block">
                                 <div class="project-1-image">
-                                    <img src="assets/newImages/ourProducts/JCC-300 Construction & Augar Piling.png" alt="">
+                                    <img src="assets/newImages/ourProducts/JCC-300 Construction & Augar Piling.png"
+                                        alt="">
                                     <div class="project-1-overlay">
-                                        <a href="assets/newImages/ourProducts/JCC-300 Construction & Augar Piling.png" class="project-1-icon"
-                                            data-fancybox="project-1"><i class="flaticon-zoom"></i></a>
+                                        <a href="assets/newImages/ourProducts/JCC-300 Construction & Augar Piling.png"
+                                            class="project-1-icon" data-fancybox="project-1"><i
+                                                class="flaticon-zoom"></i></a>
                                         <a href="product-21.php"><i class="flaticon-link"></i></a>
                                     </div>
                                     <div class="project-1-content">
@@ -552,7 +556,7 @@
             <div class="auto-container">
                 <h6 class="theme-color ff_sec fw_bold tt_u fs_14 ls_1 mb_15"><span
                         class="w_30 h_2 theme-bg mr_10 d_iblock v_middle"></span>Quotation Details
-                        </h6>
+                </h6>
                 <h2 class="fw_black fs_45 mb_50">We’re Eager to Hear From You</h2>
                 <div class="row">
                     <div class="col-lg-7">
@@ -592,7 +596,7 @@
                     </div>
                     <div class="col-lg-5">
                         <div class="ms-lg-5">
-                        <img height="700px" width="500px" src="assets/images/resource/Quotation.png" alt="">
+                            <img height="700px" width="500px" src="assets/images/resource/Quotation.png" alt="">
                         </div>
                     </div>
                 </div>
